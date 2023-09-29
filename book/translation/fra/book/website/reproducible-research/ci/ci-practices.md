@@ -23,7 +23,7 @@ Certains logiciels nécessiteront des ressources de calcul importantes pour la c
 
 Une approche consiste à utiliser différents niveaux de tests, différents sous-groupes étant requis en fonction de ce qui est modifié. Un sous-groupe large commun peut être utilisé dans tous les cas, avec des sous-groupes supplémentaires pour tester certaines zones plus en détail. Cela introduit un élément de jugement dans le processus de test, mais peut être appliqué avec succès.
 
-## Suivi des dépendances
+## Dependencies tracking
 
 La vérification des mises à jour des dépendances devrait être effectuée régulièrement. Cela peut gagner beaucoup de temps, en évitant les bogues en raison du code dépendant des fonctionnalités obsolètes. Des services tels que [David](https://david-dm.org/) sont disponibles pour la gestion des dépendances.
 
