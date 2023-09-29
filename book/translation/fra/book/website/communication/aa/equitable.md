@@ -1,5 +1,5 @@
 (communication-aa-équitable)=
-# Autorités importantes et équitables
+# Large and equitable authorships
 
 Les grands projets collaboratifs sont de plus en plus fréquents et il peut être difficile de traiter avec l’auteur de centaines ou même de milliers d’auteurs.
 
