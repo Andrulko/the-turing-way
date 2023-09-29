@@ -22,7 +22,7 @@ Top Down est une approche pour les tests d'intégration où les sections de haut
   - A.1.1
   - A1.2
 - A2
-- Os
+- B
 - B.1
 - B.2
   - B.2.1
@@ -50,4 +50,4 @@ L'approche que vous devez utiliser dépendra de la nature ou de la structure de 
 
 - Assurez-vous que vous avez un document de conception des détails approprié où les interactions entre chaque unité sont clairement définies. Il est difficile ou impossible d'effectuer des tests d'intégration sans ces informations.
 - Assurez-vous que chaque unité est testée et corrigez tout bug avant de commencer à tester l'intégration. S'il y a un bogue dans les différentes unités, les tests d'intégration échoueront presque certainement, même s'il n'y a pas d'erreur dans la façon dont ils sont intégrés.
-- Utilisez des moquettes/moignons, le cas échéant.
+- Use mocking/stubs where appropriate.
