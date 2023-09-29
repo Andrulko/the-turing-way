@@ -73,7 +73,7 @@ Si vous faites des logiciels accessibles au monde extérieur (par exemple une ap
 - Les éléments d'entrée et de sortie sont-ils compartimentés ?
   - Sinon, envisagez de créer des modules séparés qui gèrent toutes les entrées et sorties, de sorte que la validation puisse avoir lieu à un seul endroit.
 - Dans quels modules les données non fiables sont-elles présentes ?
-  - Moins il y a de choses à faire.
+  - The fewer the better.
 - Les données non fiables sont-elles compartimentées ?
   - Idéalement, validez dans le module d'entrée et passez seulement données validées à d'autres parties.
 
