@@ -1,9 +1,7 @@
 (cl-remote-collab-guidelines)=
 # Lignes directrices pour la collaboration à distance
 
-Dans ce contexte, les lignes directrices sont un ensemble de règles ou de protocoles qui peuvent créer un terrain d'entente permettant à chacun de communiquer et d'échanger des informations au sein d'une équipe distribuée pour une collaboration efficace et fructueuse.
-
-La principale motivation est de définir des lignes directrices claires autour des attentes en matière d'outils de communication, d'étiquette pour les réunions en ligne, les tâches, les échéanciers et les échéanciers à l'avance pour l'arrangement de travail collaboratif à distance et distribué dans une équipe ou une communauté.
+Dans ce contexte, les lignes directrices sont un ensemble de règles ou de protocoles qui peuvent créer un terrain d'entente permettant à chacun de communiquer et d'échanger des informations au sein d'une équipe distribuée pour une collaboration efficace et fructueuse. La principale motivation est de définir des lignes directrices claires autour des attentes en matière d'outils de communication, d'étiquette pour les réunions en ligne, les tâches, les échéanciers et les échéanciers à l'avance pour l'arrangement de travail collaboratif à distance et distribué dans une équipe ou une communauté.
 
 ## Mode de communication et de collaboration
 <!---Add details and more points point to other chapters for details--->
@@ -23,6 +21,8 @@ Les interactions informelles sont essentielles pour assurer l'engagement total d
 - Encourager les conversations d'équipe entre les réunions en mettant en place des discussions sociales et des plans d'interaction planifiés.
 - Aider les personnes de différents fuseaux horaires à rattraper et à construire un sentiment d'appartenance (par exemple, par des notes partagées ou des courriels récapitulatifs).
 
+Check out an example of informal coffee chats in {ref}`cl-informal-chats`.
+
 ## Partage de données, ressources et documentation
 <!---Add details and more points point to other chapters for details--->
 Établir des recommandations et des lignes directrices pour le partage des données (données de recherche, informations personnelles), des ressources (outils et équipement) et de la documentation (politiques, manuels).
@@ -35,6 +35,8 @@ Ces recommandations devraient inclure :
 - Localisations de différents documents de l'organisation qui sont faciles à trouver.
 - Helpdesk ou support pour l'installation et le dépannage.
 
+We have provided related recommendations in {ref}`cl-event-tools` and {ref}`cl-organising-meetings`.
+
 ## Planification des réunions, de la planification et de l'ordre du jour
 <!---Add details and more points point to other chapters for details--->
 Établir des tâches et des jalons clés au début du projet afin de déterminer comment les réunions seront planifiées, planifiées et organisées.
@@ -44,6 +46,8 @@ Ces recommandations devraient inclure :
 - Invitez tous les participants à la collecte des points de l'ordre du jour.
 - Si une équipe est grande, divisée en sous-groupes de projet pour créer un réseau plus fort.
 - Horaire de rotation des chaises et des preneurs de notes de l'équipe.
+
+We have provided related recommendations in {ref}`cl-event-tools` and {ref}`cl-organising-meetings`.
 
 ## Etiquette pour les réunions et communications en ligne
 <!---Add details and more points point to other chapters for details--->
@@ -62,6 +66,8 @@ Vos participants doivent savoir comment ils sont censés participer à une réun
 - Visez à maintenir la flexibilité et à réduire la formalité
   - Ceci est particulièrement utile pour les personnes qui travaillent de la maison et qui auront leurs membres de famille et leurs animaux de compagnie dans les environs.
 
+We have provided related recommendations for organisers in {ref}`cl-organising-meetings` and participants in {ref}`cl-event-participation`.
+
 ## Suivre les e-mails et les communications pour créer une responsabilité
 <!---Add details and more points point to other chapters for details--->
 Faire le suivi des participants après la réunion est un bon moyen de partager les messages clés de la réunion, des points d'action qui ont été créés pour différentes personnes et de demander des commentaires lorsque nécessaire.
@@ -76,7 +82,9 @@ Faire le suivi des participants après la réunion est un bon moyen de partager 
 - Créer des possibilités de perfectionnement des compétences et de formation au-delà du travail.
 - Organiser des réunions informelles telles que des cafés virtuels et des jeux en ligne.
 
-## Lecture ultérieure
+We have provided more recommendations in {ref}`cl-remote-collab-team`.
+
+## Further reading
 
 - [Deanna deBara, le guide ultime des réunions à distance en 2020](https://slackhq.com/ultimate-guide-remote-meetings), 2 janvier 2020
 
