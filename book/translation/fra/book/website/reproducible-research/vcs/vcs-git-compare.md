@@ -28,7 +28,7 @@ Les commits devraient être 'atomiques', ce qui signifie que **ils devraient fai
 
 Il est de bonne pratique de **spécifier les fichiers à valider**, c'est-à-dire ajouter des fichiers à la zone de staging par nom (`git add your_file_name`) plutôt que d'ajouter tout (`git add .`). Cela vous empêche de regrouper involontairement différents changements. Par exemple, si vous avez modifié le fichier A pendant que vous travaillez principalement sur le fichier B, vous avez peut-être oublié cela lorsque vous allez à la livraison. Avec `git add .`, le fichier A serait emmené pour la course. S'il y a plusieurs changements *non liés* qui ne devraient pas être ajoutés ensemble dans un fichier *unique* `git add -p your_file_name` vous permettra de choisir de façon interactive les changements à ajouter. Cela dit, **vous n'avez pas nécessairement besoin de faire des commits par fichier** lorsque vous travaillez sur plusieurs fichiers, mais pour un seul problème. Par exemple, si nous ajoutons un chiffre à ce chapitre ici, en choisissant un pour attirer l'attention de quelqu'un à travers :
 
-```{figure} ../../figures/flipped-taj-mahal.png
+```{figure} ../../figures/flipped-taj-mahal.*
 ---
 nom : flipped-taj-mahal
 alt : Une photographie retournée du Taj Mahal pour attirer l'attention du lecteur.
