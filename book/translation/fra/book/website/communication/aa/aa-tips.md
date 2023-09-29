@@ -10,7 +10,7 @@ Il est utile de considérer que tout le monde sur le même projet de recherche o
 
 **Motivation moyenne** Autres membres de l'équipe, probablement plus d'universitaires établis qui ont déjà une quantité importante de publications et un emploi stable. peut être moins préoccupé par l'ordre des auteurs de leurs articles ou de la manière dont les contributions sont attribuées et suivies.
 
-**Faible motivation** Les membres de l'équipe qui ne sont pas intéressés par une carrière purement académique, mais qui font toujours partie intégrante de l'équipe et ont apporté des contributions substantielles au projet. comme les ingénieurs de recherche, peuvent ne pas être intéressés par la paternité du tout.
+**Faible motivation** Les membres de l'équipe qui ne sont pas intéressés par une carrière purement académique, mais qui font toujours partie intégrante de l'équipe et ont apporté des contributions substantielles au projet.
 
 (cm-aa-tips-culture)=
 ## Encourager une culture de la paternité éthique et équitable
@@ -31,7 +31,7 @@ Ce n'est pas une bonne pratique d'attendre que vous ayez fini d'écrire un docum
         * Quelles sont les revues que vous visez - cela signifie que vous pouvez vous renseigner sur leurs propres politiques d'auteur.
         * Comment l'ordre des auteurs sera décidé ou vous suivez un type de modèle/définition d'auteurs depuis le début.
         * Comment vous allez suivre les contributions - cela sera-t-il fait pour toutes les contributions ou une liste sélectionnée? Comment allez-vous faire cela? une liste de contrôle/tous les robots contributeurs ? Qui sera chargé de maintenir la liste des contributeurs?
-        * La question de savoir si la politique ou les lignes directrices en matière de droit d'auteur seront revues, quand cela sera fait et comment cela sera fait.
+        * Whether the authorship policy/guidelines will be reviewed, when this will be done and how this will be done.
 
 * Produire de la documentation sur les décisions qui ont été prises lors de ces réunions.
     * Si possible, faites des vidéos des réunions où elles sont discutées, produisez des notes de réunion et stockez-les dans le référentiel de votre projet.
