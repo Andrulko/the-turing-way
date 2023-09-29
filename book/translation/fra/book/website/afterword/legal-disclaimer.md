@@ -22,7 +22,7 @@ Si vous ne faites pas partie d'une institution ou d'une organisation :
 
 Les lois sont différentes à différents endroits. Vous devez vous assurer que vous êtes au courant des juridictions dans lesquelles vous opérez et que vous respectez toutes les lois qui couvrent toutes les juridictions pertinentes. Si vous n'êtes pas sûr, tout d'abord en contactant un conseiller juridique à l'endroit où vous travaillez actuellement : il pourra également vous conseiller sur les autres juridictions auxquelles vous devriez réfléchir.
 
-## Et ensuite?
+## What's next?
 
 - Identifiez à qui vous devriez joindre si vous avez besoin d'un conseil juridique ou d'une expertise
 - En savoir plus sur vos droits, vos limitations et les conseils juridiques que vous devriez rechercher
