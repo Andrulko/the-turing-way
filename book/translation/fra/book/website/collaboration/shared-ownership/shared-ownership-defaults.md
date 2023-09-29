@@ -1,5 +1,5 @@
 (cl-shared-ownership-defaults)=
-# Déclencher pour un meilleur défaut
+# Nudging for a Better Default
 
 La recherche a montré que les personnes qui prennent des décisions ont une forte tendance à suivre le statu quo ou l'option par défaut (voir la [Théorie du bouchon](https://www.imperial.ac.uk/nudgeomics/about/what-is-nudge-theory/) par {cite:ps}`ThalerSunstein2009Nudge`). En l’absence d’un défaut de paiement défini activement, la norme culturelle ou institutionnelle dominante devient l’option de fait du choix. Par conséquent, les options par défaut pour les projets en cours et les nouveaux devraient fortement inciter à adopter un modèle de propriété partagée.
 
