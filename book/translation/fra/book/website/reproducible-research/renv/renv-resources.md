@@ -14,7 +14,7 @@
 Nous vous recommandons de lire le chapitre sur {ref}`rr-testing`, puis le chapitre sur {ref}`rrr-ci`. Notez que le chapitre sur {ref}`rr-vcs` est une condition préalable pour le chapitre sur l'intégration continue. Le chapitre {ref}`rr-open` contient également des informations supplémentaires sur le partage de la reproduction de la recherche.
 
 (rr-renv-resources-reading)=
-## Lecture ultérieure
+## Further Reading
 
 La [documentation Docker](https://docs.docker.com/get-started/) contient beaucoup d'informations sur les conteneurs en général.
 
