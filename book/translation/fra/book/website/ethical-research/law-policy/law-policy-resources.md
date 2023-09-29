@@ -10,7 +10,7 @@
 - Mon travail respecte-t-il et protège-t-il les droits de l'homme?
 - Mon travail respecte-t-il les droits de l'homme?
 
-## Lecture ultérieure
+## Further reading
 - [Intelligence artificielle : Qu'est-ce que les droits de l'homme ont eu à faire avec elle ?](https://points.datasociety.net/artificial-intelligence-whats-human-rights-got-to-do-with-it-4622ec1566d5)  (_post de blog de Christiaan van Veen et Corinne Cath_)
 - [Déclaration universelle des droits de l’homme à 70 : mettre les droits de l’homme au cœur du design, Développement et déploiement de l'intelligence artificielle](https://hrbdt.ac.uk/the-universal-declaration-of-human-rights-at-70-putting-human-rights-at-the-heart-of-the-design-development-and-deployment-of-artificial-intelligence/) (_The Human Rights, Big Data and Technology Project, University of Essex, UK_)
 - [Algorithmes et droits de l'homme - Étude de la dimension des droits de l'homme des techniques automatisées de traitement de données et des éventuelles implications réglementaires](https://rm.coe.int/algorithms-and-human-rights-en-rev/16807956b5) (_Conseil de l'Europe_)
