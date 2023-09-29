@@ -71,12 +71,12 @@ Informations : https://hackmd.io/@turingway/bookdash-may2021-day1 <--- mettre à
 
 #### Développement & sessions de réseautage <--- mettre à jour ce tableau
 
-| Date et heure | Ordre du jour                                                             | Hôtes               | Participants |
-| ------------- | ------------------------------------------------------------------------- | ------------------- | ------------ |
-| 08:00 - 10:30 | voir les notes                                                            | Parler par nom      | Noms         |
-| 11:00 - 12:30 | ==Themed discussion & Networking: Visual Communication & Illustrations==± | Nom                 | Noms         |
-| 14:00 - 16:30 | voir les notes                                                            | Pas de conversation | Noms         |
-| 17:00 - 19:30 | voir les notes                                                            | Parler par nom      | Noms         |
+| Date et heure | Ordre du jour                                                             | Hosts               | Attendees |
+| ------------- | ------------------------------------------------------------------------- | ------------------- | --------- |
+| 08:00 - 10:30 | voir les notes                                                            | Parler par nom      | Noms      |
+| 11:00 - 12:30 | ==Themed discussion & Networking: Visual Communication & Illustrations==± | Nom                 | Noms      |
+| 14:00 - 16:30 | voir les notes                                                            | Pas de conversation | Noms      |
+| 17:00 - 19:30 | voir les notes                                                            | Parler par nom      | Noms      |
 
 ±Thème: **TBA**
 
@@ -86,12 +86,12 @@ Informations : https://hackmd.io/@turingway/bookdash-may2021-day2 <--- mettre à
 
 #### Développement & sessions de réseautage <--- mettre à jour ce tableau
 
-| Date et heure | Ordre du jour                                                  | Hôtes | Participants |
-| ------------- | -------------------------------------------------------------- | ----- | ------------ |
-| 08:00 - 10:30 | voir les notes                                                 | Nom   | Noms         |
-| 11:00 - 13:30 | voir les notes                                                 | Nom   | Noms         |
-| 14:00 - 15:30 | ==Themed discussion & Réseau: Accessibilité & communication==± | Nom   | Noms         |
-| 17:00 - 19:30 | voir les notes                                                 | Nom   | Noms         |
+| Date et heure | Ordre du jour                                                  | Hosts | Attendees |
+| ------------- | -------------------------------------------------------------- | ----- | --------- |
+| 08:00 - 10:30 | voir les notes                                                 | Nom   | Noms      |
+| 11:00 - 13:30 | voir les notes                                                 | Nom   | Noms      |
+| 14:00 - 15:30 | ==Themed discussion & Réseau: Accessibilité & communication==± | Nom   | Noms      |
+| 17:00 - 19:30 | voir les notes                                                 | Nom   | Noms      |
 
 ±Thème: **TBA**
 
@@ -101,12 +101,12 @@ Informations : https://hackmd.io/@turingway/bookdash-may2021-day3 <--- mettre à
 
 #### Développement & sessions de réseautage <--- mettre à jour ce tableau
 
-| Date et heure | Ordre du jour                                                           | Hôtes | Participants |
-| ------------- | ----------------------------------------------------------------------- | ----- | ------------ |
-| 08:00 - 10:30 | voir les notes                                                          | Nom   | Noms         |
-| 11:00 - 12:30 | =="Afficher & Dire à dire" Repas sociaux: Thème==± (détails ci-dessous) | Nom   | Noms         |
-| 14:00 - 16:30 | voir les notes                                                          | Nom   | Noms         |
-| 17:00 - 19:30 | voir les notes                                                          | Nom   | Noms         |
+| Date et heure | Ordre du jour                                                           | Hosts | Attendees |
+| ------------- | ----------------------------------------------------------------------- | ----- | --------- |
+| 08:00 - 10:30 | voir les notes                                                          | Nom   | Noms      |
+| 11:00 - 12:30 | =="Afficher & Dire à dire" Repas sociaux: Thème==± (détails ci-dessous) | Nom   | Noms      |
+| 14:00 - 16:30 | voir les notes                                                          | Nom   | Noms      |
+| 17:00 - 19:30 | voir les notes                                                          | Nom   | Noms      |
 
 ± **Montrer & Donner un repas social : 11:00 - 13:30**
 
@@ -131,12 +131,12 @@ Informations : https://hackmd.io/@turingway/bookdash-may2021-day4 <--- mettre à
 
 #### Développement & sessions de réseautage <--- mettre à jour ce tableau
 
-| Date et heure | Ordre du jour                                             | Hôtes | Participants |
-| ------------- | --------------------------------------------------------- | ----- | ------------ |
-| 08:00 - 10:30 | voir les notes                                            | Nom   | Noms         |
-| 11:00 - 13:30 | voir les notes                                            | Nom   | Noms         |
-| 14:00 - 15:30 | ==Themed discussion & Networking: Activism in Research==± | Nom   | Noms         |
-| 17:00 - 19:30 | voir les notes                                            | Nom   | Noms         |
+| Date et heure | Ordre du jour                                             | Hosts | Attendees |
+| ------------- | --------------------------------------------------------- | ----- | --------- |
+| 08:00 - 10:30 | voir les notes                                            | Nom   | Noms      |
+| 11:00 - 13:30 | voir les notes                                            | Nom   | Noms      |
+| 14:00 - 15:30 | ==Themed discussion & Networking: Activism in Research==± | Nom   | Noms      |
+| 17:00 - 19:30 | voir les notes                                            | Nom   | Noms      |
 
 ±Thème: **TBA**
 
@@ -147,11 +147,11 @@ Informations : https://hackmd.io/@turingway/bookdash-may2021-day4 <--- mettre à
 #### Sessions de développement (facultatif)
 Informations : https://hackmd.io/@turingway/bookdash-may2021-day5 <--- mettre à jour
 
-| Date et heure | Ordre du jour         | Hôtes | Participants |
-| ------------- | --------------------- | ----- | ------------ |
-| 11:00 - 13:00 | ==Ouvert au public==± | Noms  | Noms         |
-| 14:00 - 16:00 | voir les notes        | Noms  | Noms         |
-| 17:00 - 19:00 | ==Ouvert au public==± | Noms  | Noms         |
+| Date et heure | Ordre du jour         | Hosts | Attendees |
+| ------------- | --------------------- | ----- | --------- |
+| 11:00 - 13:00 | ==Ouvert au public==± | Noms  | Noms      |
+| 14:00 - 16:00 | voir les notes        | Noms  | Noms      |
+| 17:00 - 19:00 | ==Ouvert au public==± | Noms  | Noms      |
 
 ± ***Partage Communautaire & Fête des Contributeurs - ***Ouvert au public******
 
