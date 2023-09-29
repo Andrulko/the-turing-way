@@ -24,11 +24,11 @@ En règle simple, ce qui peut être exporté dans un format texte uniquement, de
 
 En tant que test pour la compatibilité de votre tableur avec la recherche reproductible, exportez vos données de la feuille de calcul au format CSV et rouvez-les. Si vous pouvez toujours obtenir toutes les informations que vous avez stockées dans votre feuille, alors vos données sont correctes.
 
-```
+```{tip}
 Astuce : Si vous voulez utiliser la couleur pour aider avec une mise en valeur rapide dans votre document, créer une nouvelle colonne pour indiquer quelles cellules sont surlignées (cela devient une partie de vos données).
 En plus des retours visuels, vous pouvez maintenant utiliser ces informations pour filtrer ou trier vos données et obtenir rapidement les cellules surlignées.
-
 ```
+
 (format de feuilles de calcul rr-rdm)=
 ## 2. Format de rangement pour les feuilles de calcul
 
@@ -46,7 +46,7 @@ En bref:
 - **La première ligne est l'en-tête**
 - Les noms d'en-tête ne doivent pas inclure un caractère spécial (y compris l'espace) ou commencer par un nombre
 
-```{figure} ../../figures/tidy-1.png
+```{figure} ../../figures/tidy-1.*
 ---
 name : tidy-1
 alt : L'image représente des données bien rangées. Une colonne représente une variable, une ligne représente un échantillon, et une cellule représente un morceau d'information.
@@ -101,7 +101,7 @@ Par contre, les fichiers CSV n'enregistrent qu'une seule feuille à la fois. Bie
 
 Les données sont souvent collectées manuellement, sur papier. Pour être le plus efficace et éviter les erreurs, il est préférable de collecter les données dans le même format que celui qui sera numérisé. Autrement dit, il faut concevoir la feuille de calcul lisible par ordinateur qui sera imprimée pour la collecte de données. Cela pose certaines questions de conception, en particulier pour les informations qui sont uniques à une expérience (un seul papier) mais qui peuvent changer entre les expériences (par exemple, expérimentaliste ou température de la pièce). Vous voulez en effet cette information dans une seule colonne, mais vous ne voudriez la saisir qu'une seule fois lors de l'acquisition de données (surtout sur la version papier). Une solution est de déplacer ces colonnes sur une seconde page (non imprimée) de la feuille de calcul et d'ajuster les en-têtes et les pieds de page pour entrer l'information sur la version papier. Il faut s'assurer que les informations sont saisies dans la colonne lors de la numérisation.
 
-La façon dont vous saisissez les informations (c.-à-d. la façon dont vous concevez vos en-têtes et le contenu de votre cellule) peut être différente selon l'analyse que vous voulez effectuer. Il faut toujours essayer d'être aussi générique et objectif que possible et réfléchir à toute analyse supplémentaire que l'on pourrait vouloir effectuer.
+la façon dont vous concevez vos en-têtes et le contenu de votre cellule) peut être différente selon l'analyse que vous voulez effectuer. Il faut toujours essayer d'être aussi générique et objectif que possible et réfléchir à toute analyse supplémentaire que l'on pourrait vouloir effectuer.
 
 
 À titre d'exemple, supposons que vous êtes intéressé à décrire si le pourcentage de fleurs dont la longueur est supérieure à 6 mm est différente dans trois espèces d'iris. Vous pouvez être enclin à enregistrer une colonne vraie ou fausse `est sepal-longer-than-6cm`, mais cela restreindra l'analyse que vous pouvez effectuer. Une meilleure solution consiste à enregistrer la longueur du sepal (en mm) et à créer automatiquement la catégorisation plus tard.
@@ -146,3 +146,6 @@ Bien que les feuilles de calcul puissent être un moyen très convivial de colle
 Utilisez un fichier README [{term}`def<README>`] et d'autres choix de structure pour expliquer les conventions de nommage. Il indiquera clairement aux autres ce que signifie le nom du fichier et des en-têtes et les critères à prendre en considération lors de la conception d'un flux de travail d'analyse. Si vous travaillez dans une équipe, vous devriez prendre soin des conventions et vous assurer que tout le monde les suit.
 
 Pour en savoir plus sur l'organisation des données dans les feuilles de calcul, vous pouvez consulter les cours de menuiserie de données pour les [scientifiques sociaux](https://datacarpentry.org/spreadsheets-socialsci/) et les [écologistes](https://datacarpentry.org/spreadsheet-ecology-lesson/).
+
+See also a blogpost with [resources for using spreadsheets in research and moving onto other tools](https://www.software.ac.uk/blog/2021-11-05-resources-using-spreadsheets-research-and-moving-other-tools).
+
