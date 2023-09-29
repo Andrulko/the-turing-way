@@ -5,7 +5,7 @@
 
 La science des données est définie par son interdisciplinarité. Notre travail ne peut atteindre son potentiel le plus élevé que s'il y a des équipes différentes de personnes impliquées dans la conception et la fourniture de la recherche ou du produit.
 
-```{figure} ../figures/collaboration.jpg
+```{figure} ../figures/collaboration.*
 ---
 nom : largeur
 collaboration : 500px
