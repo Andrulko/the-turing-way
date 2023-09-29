@@ -31,7 +31,7 @@ Ce n'est pas une bonne pratique d'attendre que vous ayez fini d'écrire un docum
         * Quelles sont les revues que vous visez - cela signifie que vous pouvez vous renseigner sur leurs propres politiques d'auteur.
         * Comment l'ordre des auteurs sera décidé ou vous suivez un type de modèle/définition d'auteurs depuis le début.
         * Comment vous allez suivre les contributions - cela sera-t-il fait pour toutes les contributions ou une liste sélectionnée? Comment allez-vous faire cela? une liste de contrôle/tous les robots contributeurs ? Qui sera chargé de maintenir la liste des contributeurs?
-        * La question de savoir si la politique ou les lignes directrices en matière de droit d'auteur seront revues, quand cela sera fait et comment cela sera fait.
+        * Whether the authorship policy/guidelines will be reviewed, when this will be done and how this will be done.
 
 * Produire de la documentation sur les décisions qui ont été prises lors de ces réunions.
     * Si possible, faites des vidéos des réunions où elles sont discutées, produisez des notes de réunion et stockez-les dans le référentiel de votre projet.
