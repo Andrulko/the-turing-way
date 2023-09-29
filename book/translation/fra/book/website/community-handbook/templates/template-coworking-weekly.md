@@ -26,11 +26,9 @@ Si vous souhaitez rejoindre _The Turing Way_ heure de co-travail - inscrivez-vou
 
 :hourglass_flowing_sand: **Planification :**
 
-**Planification :**
-
 | Durée      | Activité                                         |
 | ---------- | ------------------------------------------------ |
-| Début      | 👋 Bienvenue                                      |
+| Start      | 👋 Bienvenue                                      |
 | 5 minutes  | Introductions et fixation d'objectifs personnels |
 | 20 minutes | 🍅 1ère session de Pomodoro                       |
 | 5 minutes  | ☕ Pause et rapport                               |
@@ -42,9 +40,9 @@ Si vous souhaitez rejoindre _The Turing Way_ heure de co-travail - inscrivez-vou
 - JJ Mois AAAA : HH:MM BST (lien pour une heure locale depuis https://arewemeetingyet.com)
 - ...
 
-**Connexion au lien**: <Provide a Zoom link>
+**horloge Pomodoro pour ces appels**: https://cuckoo.team/tw-coworking <Provide a Zoom link>
 
-**horloge Pomodoro pour ces appels**: https://cuckoo.team/tw-coworking
+**Connexion au lien**:
 
 ### Inscrivez-vous ci-dessous pour indiquer que vous vous joindrez à des dates particulières. *On donne l'instant en BST*
 
