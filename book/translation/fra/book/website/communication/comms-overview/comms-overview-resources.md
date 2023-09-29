@@ -81,7 +81,7 @@ Pour l'enregistrement des discussions:
 En savoir plus dans ce chapitre : {ref}`cm-social-media`.
 
 * [Tweetdeck](https://tweetdeck.twitter.com/)
-* [Tampon](https://buffer.com/)
+* [Buffer](https://buffer.com/)
 * Ceci est un bon [guide pour vous installer sur Twitter](https://www.wired.com/story/how-to-setup-twitter-search-hashtag-and-login-help/).
 * [Dix règles simples pour débuter sur Twitter en tant que scientifique](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007513)
 * [Dix règles simples de tweeting en direct lors des conférences scientifiques](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003789)
