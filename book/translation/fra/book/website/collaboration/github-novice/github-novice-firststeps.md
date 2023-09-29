@@ -20,7 +20,7 @@ Un référentiel ou un dépôt est l'espace en ligne où vous stockez tous les d
 
 C'est ce que vous devriez voir maintenant. C'est la page d'accueil de votre dépôt. Le diagramme ci-dessous explique ce que font tous les boutons, onglets et autres choses !
 
-```{figure} ../../figures/github-basic-diagram.jpg
+```{figure} ../../figures/github-basic-diagram.*
 ---
 nom: github-basic-diagram
 alt: Schéma de référentiel annoté après sa création, expliquant les principales fonctionnalités. Les principales caractéristiques sont expliquées dans la légende de la figure.
@@ -58,7 +58,7 @@ Pour éditer votre fichier README.md :
 
 Vous pouvez maintenant modifier le fichier. Nous discuterons de la façon de sauvegarder vos modifications après quelques pointeurs sur l'écriture d'un bon README.
 
-```{figure} ../../figures/github-readme-before-edit.jpg
+```{figure} ../../figures/github-readme-before-edit.*
 ---
 nom: github-readme-before-edit
 alt: diagramme annoté du fichier README.md, si vous cliquez sur le nom du fichier sur votre page de destination. Les principales caractéristiques sont expliquées dans la légende de la figure.
@@ -75,7 +75,7 @@ Diagramme annoté du fichier README.md, si vous cliquez sur le nom du fichier su
 - **8. Supprimer le fichier :** cliquer sur la corbeille pour supprimer ce fichier.
 ```
 
-```{figure} ../../figures/github-readme-after-edit.jpg
+```{figure} ../../figures/github-readme-after-edit.*
 ---
 nom: github-readme-after-edit
 alt: diagramme annoté du fichier README.md en mode édition – avant l'édition. Expliqué dans le titre.
@@ -108,7 +108,7 @@ Si vous cliquez sur le lien ci-dessus, il vous mènera à leur fichier README.fi
 * N'oubliez pas de vérifier à quoi il ressemble en cliquant sur l'onglet de prévisualisation.
 * Lorsque vous avez terminé l'édition, vous devez faire défiler vers le bas vers le bas de la page et appuyer sur le bouton vert de changement de livraison.
 
-```{figure} ../../figures/github-edited-readme.jpg
+```{figure} ../../figures/github-edited-readme.*
 ---
 name : /github-edited-readme
 alt: diagramme annoté du fichier README.md en mode édition – avec un modèle ajouté. Les caractéristiques sont expliquées dans la légende de la figure.
