@@ -1,4 +1,4 @@
-```{figure} ../figures/data-ecosystem.jpg
+```{figure} ../figures/data-ecosystem.*
 ---
 hauteur : 400px
 nom : data-ecosystem
@@ -33,6 +33,7 @@ La gestion des données de recherche (RDM) [{term}`def<Research Data Management>
 
 - La gestion de vos données vous permet de toujours trouver vos données et d'assurer la qualité de la pratique scientifique.
 - Stocker vos données correctement et sauvegarder régulièrement empêche la perte de données.
-- Il peut aider avec la reconnaissance de {ref}` <cm-citable-orcid>` pour toutes les sorties de recherche.
+- Il peut aider avec la reconnaissance de {ref}`<cm-citable-orcid>` pour toutes les sorties de recherche.
 - Il stimule la **collaboration** avec d'autres, qui trouvera plus facile de comprendre et de réutiliser vos données.
 - Le RDM est efficace en termes de coût/temps, car vous pourrez toujours trouver et utiliser vos données.
+
