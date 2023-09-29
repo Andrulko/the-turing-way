@@ -22,6 +22,15 @@ Vous pouvez utiliser ORCID pour accéder ou vous inscrire aux services qui utili
 
 Vous pouvez utiliser votre ORCID à votre CV/CV pour que tout le monde puisse consulter tous vos résultats de recherche. Vous pouvez également utiliser votre profil ORCID pour créer un CV en utilisant \[ROpenSci package rorcid\](rorcid: https://github.com/ropensci/rorcid) comme décrit [ici](https://discuss.ropensci.org/t/using-rorcid-to-generate-a-website-cv/1806).
 
+```{figure} ../../figures/orcid-ids.*
+---
+name: orcid-ids2
+alt: A researcher surrounded by a ring formed of all her different outputs, linked by an ORCID. Text reads "ORCID IDs" and "One Ring to Rule All Outputs."
+---
+ORCID IDs link all your research outputs together.
+_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
+```
+
 (cm-citable-orcid-use)=
 ## Utilisation de l'ORCID
 
