@@ -16,3 +16,4 @@ Un podcast est un programme audio auquel vous pouvez vous abonner et écouter su
 * [Le Podcast Turing](https://www.turing.ac.uk/news/turing-podcast).
 * [ReproducibiliTea Podcast](https://soundcloud.com/reproducibilitea).
 * [Ouvrez des histoires scientifiques](https://podcasts.apple.com/gb/podcast/open-science-stories/id1547403532).
+* [NHS-R Community Podcast](https://podcasts.apple.com/gb/podcast/nhs-r-community-podcast/id1583060756)
