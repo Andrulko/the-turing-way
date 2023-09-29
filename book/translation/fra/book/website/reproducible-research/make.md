@@ -16,7 +16,7 @@ Niveau de compétence recommandé : intermédiaire
 
 Une science des données ou un projet de recherche peut être considéré comme un arbre de dépendances : le rapport dépend des chiffres et des tableaux, et celles-ci dépendent à leur tour des données et des scripts d'analyse utilisés pour traiter ces données (illustrées dans la figure ci-dessous).  Make est un outil pour créer des fichiers de sortie à partir de leurs dépendances via des règles pré-spécifiées.  Il est possible de combiner ces deux idées pour créer un projet reproductible avec Make.  Dans ce chapitre, nous donnons une introduction à Make et fournissons un tutoriel sur la façon dont Make peut être utilisé pour un pipeline d'analyse de données .  Nous décrivons également un projet de recherche reproductible dans le monde réel qui utilise Make pour passer des données d'entrée brutes aux expériences toutes les voies vers le fichier pdf du papier !
 
-```{figure} ../figures/make-research-dag.png
+```{figure} ../figures/make-research-dag.*
 ---
 nom : make-research-dag
 alt : Schéma d'un projet de recherche.
