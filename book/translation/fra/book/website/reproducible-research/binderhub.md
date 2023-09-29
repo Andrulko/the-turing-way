@@ -12,7 +12,7 @@ Ce chapitre discutera de [BinderHub](https://binderhub.readthedocs.io/en/latest/
 
 Ce chapitre s'adresse principalement aux ingénieurs de logiciels de recherche et aux services informatiques qui souhaitent fournir un service à un groupe de chercheurs un BinderHub. Bien que n'importe qui puisse construire un BinderHub.
 
-```{figure} ../figures/binderhub.jpg
+```{figure} ../figures/binderhub.*
 ---
 nom: binderhub
 alt : Une représentation de l'architecture BinderHub qui implique GitHub, repo2docker, docker, jupyterhub et la livraison aux clients de l'entreprise.
