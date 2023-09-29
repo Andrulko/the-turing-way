@@ -1,7 +1,7 @@
 (rr-binderhub-ressources)=
 # Ressource
 
-## Lecture ultérieure
+## Further reading
 
 - [Documentation du lieur](https://mybinder.readthedocs.io/en/latest/)
 - [Documentation de BinderHub](https://binderhub.readthedocs.io/en/latest/index.html)
