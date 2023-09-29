@@ -11,7 +11,7 @@ Nous sommes incroyablement reconnaissants envers les membres de notre communaut�
 
 Merci d'avoir rejoint l'incroyable voyage de _The Turing Way_!
 
-```{figure} ../figures/community.jpg
+```{figure} ../figures/community.*
 ---
 hauteur : 400 px
 : communauté
@@ -51,8 +51,8 @@ Voici quelques suggestions pour une bonne première contribution :
 
 L'enquêteur principal de ce projet est [le Dr Kirstie Whitaker](https://whitakerlab.github.io/about). Elle dirige le programme de recherche sur les outils, les pratiques et les systèmes de [The Alan Turing Institute](http://turing.ac.uk).
 
-Le Community Manager est [Malvika Sharan](https://about.me/malvikasharan). Elle est associée à la recherche au [Alan Turing Institute](http://turing.ac.uk).
+[Anne Lee Steele](https://www.turing.ac.uk/people/researchers/anne-lee-steele) is the Community Manager.
 
-Vous pouvez les contacter sur la communauté Gitter Channel [https://gitter.im/alan-turing-institute/the-turing-way](https://gitter.im/alan-turing-institute/the-turing-way). Vous pouvez écrire un courriel à Malvika Sharan pour toute question de requête en utilisant le courriel de la communauté [theturingway@gmail. om](mailto:theturingway@gmail.com) ou contactez-la directement en envoyant un e-mail à [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk). Dans le cas où vous souhaitez rejoindre directement Kirstie, envoyez-lui un e-mail à [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk).
+Vous pouvez les contacter sur la communauté Gitter Channel [https://gitter.im/alan-turing-institute/the-turing-way](https://gitter.im/alan-turing-institute/the-turing-way). You can write an email to Anne Lee Steele for any question or query by using the community email [theturingway@gmail.com](mailto:theturingway@gmail.com) or contact her directly by emailing [asteele@turing.ac.uk](mailto:asteele@turing.ac.uk). Dans le cas où vous souhaitez rejoindre directement Kirstie, envoyez-lui un e-mail à [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk).
 
 Pour les coordonnées de la requête relative au Code de Conduite et la déclaration, veuillez consulter le fichier du code de conduite {ref}`<ch-coc>` dans ce manuel de la communauté.
