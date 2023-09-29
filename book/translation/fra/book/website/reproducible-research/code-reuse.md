@@ -11,7 +11,7 @@ Nous pouvons cartographier les définitions de reproductiblement dans le cadre F
 | Freire framework | Définitions de reproductiblement                                          |
 | ---------------- | ------------------------------------------------------------------------- |
 | Répétitif        | Reproductible (mêmes données, même analyse)                               |
-| Réexécutable     | Robuste & Réplique (même code, données / analyse / paramètres différents) |
+| Re-runnable      | Robuste & Réplique (même code, données / analyse / paramètres différents) |
 | Portable         | *Non pris en compte* (même code/données, environnement différent)         |
 | Extensible       | (partiellement) Généralisable                                             |
 | Modifiable       | (partiellement) Généralisable                                             |
