@@ -1,14 +1,38 @@
 (rr-rdm-checklist)=
 # Checklist
+Below follow two checklists, one for individual researchers and one for research teams:
 
-<!-- This is a different style than the other chapters, but I really love what Alex provided so I just kept it. -->
+# Individual Researcher Checklist
 
 - Ne pas toucher les données brutes. Sauvegardez-le dans un endroit raisonnable et gardez une copie en lecture seule.
 
-- Avoir un plan ! Décidez où vos données vont être stockées, ce qui est appelé, quand/si elle doit être supprimée AVANT de commencer à la collecter et de la noter dans un plan de gestion des données. Si vous collectez des données sensibles, planifiez votre consentement pour le partage dès le début!
+- Set up a {ref}`Data Management Plan<rr-rdm-dmp>` to decide how the data is managed. This is especially relevant if you collect {ref}`sensitive data<pd-sdp>` and need to plan for consent for sharing!
 
-- Tout documenter. Vous savez qui la pire personne à répondre aux courriels est sur ce que la fréquence d'échantillonnage du canal X était. Nope not him, it's actually yourself from a year ago. Gardez la documentation avec les données !
+- Document everything and keep the documentation with the data (see {ref}`Documentation and Metadata<rr-rdm-metadata>`) to ensure your data is reusable.
 
-- Créez les données que vous voulez voir dans le mot. Imaginez que quelqu'un était sur le point de vous donner un jeu de données dont vous aviez besoin pour bien analyser le travail dont vous avez rêvé. À quoi voulez-vous que cela ressemble? C'est ainsi que vous devriez vous y prendre.
+- Essayez de ne pas réinventer la roue. Before you start creating a new schema, storage format or naming protocol, try to find an existing tool: have a (quick) internet search or ask your colleagues (see {ref}`Documentation and Metadata<rr-rdm-metadata>`).
 
-- Essayez de ne pas réinventer la roue. Avant de commencer à créer un nouveau schéma fou, un format de stockage ou un protocole de nommage, ayez un google rapide ou demandez à vos collègues. Quelque chose qui est déjà utilisé est susceptible d'être meilleur à long terme, même si vous pensez qu'il y a une meilleure solution.
+Something that is already being used is likely to be better in the long run.
+
+- Follow any procedures required by your research group, institute, or country (ethics, integrity codes, policies on data management/open science)
+
+See also the [Harvard checklist](https://osf.io/593t6).
+
+# Research Team Checklist:
+This list is based on [Borghi and van Gulick 2022](https://doi.org/10.1162/99608f92.9497f68e) {cite:ps}`Borghi2022checklist`.
+
+Discuss the checklist with your team!
+
+- Every member of the research team is able to find and use the data, code, documentation and other materials related to this project (project's research materials).
+    - We will continue to do so ten years from now.
+    - Our documentation is maintained and reviewed regularly.
+    - The documentation describes the data management practices of the project and includes roles and responsibilities of individual team members
+- We have established on/off boarding procedures.
+- Another researcher from outside the research group but in the same field would be able to find and use the project's research materials.
+- We have a standardised set of data management practices, including file naming conventions and folder structures (see {ref}`Data Storage and Organisation<rr-rdm-storage>`).
+- The data is stored and backed up on recommended data storage systems.
+- We reviewed all applicable policies (institution, funder, potential publisher).
+- We have read through and understand other relevant agreements, licenses, or other requirements.
+- We have sought out community standards and best practices related to our data.
+- We have set up a {ref}`Data Management Plan<rr-rdm-dmp>` to help us decide what research objects will be made publicly available.   
+
