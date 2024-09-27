@@ -22,7 +22,7 @@ Ils peuvent se situer au niveau individuel, du lieu de travail ou de l'industrie
 * Informez les gens de leurs droits au travail, de leur incidence sur les politiques et des obligations légales de l'organisation
 
 Au niveau du milieu de travail, les membres de la branche syndicale peuvent:
-* Négocier avec la direction au nom de leurs membres: cela s'appelle "négociation collective" et peut être utilisé pour améliorer les conditions de travail, les salaires, les pensions de retraite
+* Negotiate with management on behalf of their members: this is called 'collective bargaining' and can be used to improve working conditions, salaries, pensions
 * Examiner les politiques existantes sur le lieu de travail et préconiser des changements qui améliorent l'équité, suppriment les influences patriarcales/sociétales et renforcent le soutien aux membres marginalisés de la main-d'œuvre
 * Soulever les préoccupations en matière de santé et de sécurité concernant des domaines ou des devoirs particuliers
 * Organiser les membres à « travailler pour régner », lorsque des heures supplémentaires ou des fonctions en dehors de celles figurant dans la description officielle des fonctions sont entreprises
@@ -58,7 +58,7 @@ Les scientifiques et les chercheurs travaillent dans les universités, les insti
 
 Il s'agit d'un syndicat de scientifiques fondé au début du XXe siècle, qui a joué un rôle de premier plan dans la création de syndicats similaires à travers le monde.
 
-```{figure} ../../figures/scientific-union-badge.jpg
+```{figure} ../../figures/scientific-union-badge.*
 ---
 hauteur: 500px
 : nom scientifique-union-badge
@@ -135,10 +135,11 @@ Nous reconnaissons que la liste ci-dessous est très centrée sur le Royaume-Uni
 * Coalition des travailleurs technologiques, Global (organisation axée sur les travailleurs technologiques dans l'industrie) [site web](https://techworkerscoalition.org/)
 
 #### Royaume-Uni
+* **United Tech and Allied Workers (UTAW)**, United Kingdom, a branch of the Communication Workers Union, covering all workers at tech and data science companies, regardless of pay grade or employment status. It is an industrial union organised by and for technology workers. ([website](https://utaw.tech/about/))
 * **Unir**, Royaume-Uni, le plus grand syndicat de services professionnels avec plus d'un million de membres [site web](https://unitetheunion.org/)
-* **Université & Colleges Union (UCU)**, Royaume-Uni, couvre les chercheurs, personnel enseignant et personnel de services professionnels de niveau supérieur dans l'enseignement supérieur & établissements d'enseignement supérieur [site Web](https://www.ucu.org.uk/)
 * **Prospecter**, Royaume-Uni, syndicat couvrant les scientifiques & ingénieurs [site internet](https://members.prospect.org.uk/our-industries/science/index)
 * **Union des services publics et commerciaux (PCS)**, Royaume-Uni, Union de la fonction publique [site web](https://www.pcs.org.uk/about-pcs)
+* **Université & Colleges Union (UCU)**, Royaume-Uni, couvre les chercheurs, personnel enseignant et personnel de services professionnels de niveau supérieur dans l'enseignement supérieur & établissements d'enseignement supérieur [site Web](https://www.ucu.org.uk/)
 * Voix unies du monde (UVW), Direction des travailleurs du secteur de la bienfaisance [site Web](https://www.uvwunion.org.uk/en/sectors/charity-sector/)
 * Syndicat des travailleurs indépendants de Grande-Bretagne (IWGB), Direction des travailleurs du secteur de la bienfaisance [site Web](https://iwgb.org.uk/page/iwgb-charity-workers-branch/)
     * IWGB a également un certain nombre de branches couvrant les nettoyeurs, les réceptionnistes et les travailleurs de l'industrie du jeu
@@ -147,8 +148,8 @@ Nous reconnaissons que la liste ci-dessous est très centrée sur le Royaume-Uni
 * **Medical Laboratory Scientists Association (MLSA)**, Irlande, est le seul syndicat représentant plus de 1600 Medical Scientists en Irlande [site web](https://mlsa.ie/who-we-are)
 
 #### France
-* **Confédéération Franc<unk> aise Dé́mocratique du Travail (CFDT)** est la plus grande confédération syndicale française par nombre de membres. Il est né en tant que branche laïque du site web du syndicat chrétien Confédé́éération Franc<unk> aise des Travailleurs Chrétiens (CFTC) [](https://cfdt.fr/)
-* **Confédérer la Générale du Travail (CGT)** est le deuxième plus grand syndicat français par nombre de membres. La CGT concentre son attention sur le syndicalisme dans le site web du secteur privé [](https://www.cgt.fr/)
+* **Confédéération Franc<unk> aise Dé́mocratique du Travail (CFDT)** est la plus grande confédération syndicale française par nombre de membres. Il est né en tant que branche laïque du site web du syndicat chrétien Confédé́éération Franc
+* **Confédérer la Générale du Travail (CGT)** est le deuxième plus grand syndicat français par nombre de membres. La CGT concentre son attention sur le syndicalisme dans le site web du secteur privé
 * **La Confé́́dération Générale du Travail-Force Ouvriére (CGT-FO)** a été fondée par d'anciens membres de la Confédération Générale du Travail (CGT) qui ont accusé cette fédération d'être influencée par le site web [du Parti Communiste Français](https://www.force-ouvriere.fr/?lang=fr)
 * **La Fédération Française de l’Encadrement-Confédération Générale des Cadres (CFE-CGC)** se concentre uniquement sur l’organisation de syndicats pour des employés professionnels ayant un enseignement supérieur ou des postes de direction ou de direction [site web](https://cfecgc.org/)
 
@@ -164,6 +165,9 @@ Nous reconnaissons que la liste ci-dessous est très centrée sur le Royaume-Uni
 * **Confederación Sindical de Comisiones Obreras (CCOO)** est la deuxième plus grande union en Espagne et est la plus réussie dans les élections [site web](https://www.ccoo.es/)
 * **La Fédération de Jovenes Investigadores (FJI-Precarios)** se concentre sur l'amélioration des conditions de travail des jeunes chercheurs, la défense de la dignité de la profession de recherche, et dans l'ensemble, l'amélioration de la situation de la science en Espagne [site internet](http://precarios.org/Qui%C3%A9nes+somos)
 
+#### Argentina
+* **APINTA (Asociación del Personal del Instituto Nacional de Tecnología Agropecuaria, Staff Association of the National Institute of Agricultural Technology)** is the entity that groups together all workers who have an employment relationship with INTA, as well as its retirees and pensioners ([website](https://www.apinta.org/))
+* https://cfdt.fr/
 
 #### États-Unis
 * **Des syndicats étudiants diplômés** dans de nombreuses universités et collèges organisent [la page Wikipédia](https://en.wikipedia.org/wiki/Graduate_student_employee_unionization)
@@ -171,6 +175,11 @@ Nous reconnaissons que la liste ci-dessous est très centrée sur le Royaume-Uni
 #### Australie
 * **Scientifiques Professionnels Australie**, Australie (syndicat couvrant les scientifiques de l'industrie)[site web](https://scientists.professionalsaustralia.org.au/)
 * [Liste générale des syndicats en Australie](https://en.wikipedia.org/wiki/List_of_trade_unions_in_Australia)
+
+#### The Netherlands
+* Négocier avec la direction au nom de leurs membres: cela s'appelle "négociation collective" et peut être utilisé pour améliorer les conditions de travail, les salaires, les pensions de retraite
+* **Algemene Onderwijsbond (AOb)** has over 83.000 members and represents teachers and researchers in all education sectors ([website](https://www.aob.nl/))
+* **Vakbond voor de wetenschap (VAWO)** was a labour union that specifically targetted scientific researchers which merged with the AOb in early 2022.
 
 (er-activisme-unionisation-résumé) =
 ## Summary

@@ -1,15 +1,16 @@
 (partage d'aperçu-pd)=
 # Partagez votre travail de recherche
-Maintenant que vous êtes dans la dernière phase de votre projet, vous voulez vous assurer que vos sorties sont à la disposition de tous ceux qui souhaitent les analyser ou les réutiliser. La science ne peut que progresser en s'appuyant sur les résultats de chacun. La première étape consiste à partager votre travail.
+
+In order to make sure that (most) research outputs are available to everyone interested in analysing or reusing them, let's take some time to learn about how to share them. La science ne peut que progresser en s'appuyant sur les résultats de chacun. La première étape consiste à partager votre travail. Different digital research outputs or {ref}`research objects<cm-ro>`, such as data, software and code, protocols, reagents, and hardware, can be shared as open results on the web. They should come with specific information such as licenses, documentation and source code (repository, online index or archive).
 
 Mais le seul partage ne suffit pas. Vous devez vous assurer que vos objets de recherche sont identifiables **F** **A**ccesible, **I**noperable et **R**eutilisable. Ceci est appelé {ref}`Principes FAIR<rr-rdm-fair>` qui fournit des directives pour améliorer le Findability, Accessibilité, interopérabilité et réutilisabilité des actifs numériques ; qui soutiennent la reproductibilité de la recherche.
 
 Cet aspect est déjà pris en compte lors du développement de votre {ref}`plan de gestion des données (DMP)<rr-rdm-dmp>` (voir {ref}`pd-overview-planning-dmp`). Par conséquent, il est important de revoir votre DMP pour vous assurer que les lignes directrices sont également appliquées lors de la mise à disposition de vos résultats. Vous pouvez en apprendre plus à ce sujet dans un chapitre sur {ref}`faisant des données FAIR<rr-rdm-fair>`).
 
 (pd-overview-sharing-archive)=
-## Archiver vos sorties
+## Share your data
 
-Comme vos données, vos sorties devraient être archivées dans un endroit ouvert, où les personnes peuvent y accéder. Un référentiel est un bon endroit pour stocker vos résultats.
+Comme vos données, vos sorties devraient être archivées dans un endroit ouvert, où les personnes peuvent y accéder. If you have sensitive data, you will not be able to share the raw data, but there may be some data you can share. A repository is a good place to store your data.
 
 Vous trouverez un aperçu de certains dépôts disponibles pour l'archivage de vos données dans [re3data.org](https://www.re3data.org/).
 
@@ -24,11 +25,20 @@ Un outil qui peut être utilisé pour éviter cela est [protocols.io](https://ww
 
 ## Partage des scripts d'analyse et des logiciels de recherche
 
-Si vous avez utilisé un système de contrôle de version, vous en aurez la couverture.
+Si vous êtes nouveau dans le contrôle de version, vous pouvez en savoir plus à ce sujet dans le chapitre {ref}`Contrôle de version<rr-vcs>`. You should now consider putting a snapshot of your code in a repository, so you can be sure it gets archived for a relatively long time, and it become citable. Indeed, there is no guarantee that the repository will stay available for a long time.
 
-Si le développement de scripts d'analyse et de logiciels de recherche fait partie de vos recherches, vous devez utiliser un système de contrôle de version. Si vous êtes nouveau dans le contrôle de version, vous pouvez en savoir plus à ce sujet dans le chapitre {ref}`Contrôle de version<rr-vcs>`.
 
 Vous pouvez intégrer votre système de contrôle de version avec un référentiel d'usage général. Par exemple, lors de l'intégration de GitHub avec Zenodo, vous pouvez obtenir des identifiants d'objets numériques ou des DOI pour votre logiciel. Cela facilite automatiquement le partage et le rend citable. Vous pouvez en savoir plus sur les DOI dans le chapitre sur {ref}`Créer un centre de recherche<cm-citable>`.
+
+
+
+## Share Research Hardware
+
+In absence of better solution, you may deal with your hardware documentation with the smae strategy as with your software: using version control  repositories during its development, and zenodo integration for archiving. If your documentation is in the form of a website, try to provide a independent html build that can run without a server.
+
+## Share reagents
+
+Depending on your research domain, you may have produced reagents (genetic material or tissue for example). If there is a specific bank for these products that can share them widely, you may consider using them. Make sure a persistent identifier is given, an that the description of your reagents have enough metadata to make sharing useful.
 
 ## Collecter vos Recherches
 

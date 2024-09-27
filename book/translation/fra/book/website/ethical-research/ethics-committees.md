@@ -60,7 +60,9 @@ Par conséquent, pour répondre à cette question, il faut fournir:
 ## Confidentialité et sécurité
 > Comment allez-vous vous assurer que toute information sensible que votre projet utilise soit sécurisée et qu'elle ne soit accessible qu'aux membres pertinents de l'équipe de recherche?
 
-**Justification.** La vie privée est un droit humain fondamental (voir ce [projet de chapitre](https://github.com/alan-turing-institute/the-turing-way/pull/1394/files?short_path=b95854e#diff-b95854e17574ab3b68f2f89991e4dddf199e01901dc8e235d87e2b0c8980a4d9) pour *La Voie Turing* pour plus sur les droits de l'homme). Par conséquent, il est essentiel que les projets soient menés dans le respect de la vie privée.
+**Justification.** La vie privée est un droit humain fondamental (voir ce [projet de chapitre](https://github.com/alan-turing-institute/the-turing-way/pull/1394/files?short_path=b95854e#diff-b95854e17574ab3b68f2f89991e4dddf199e01901dc8e235d87e2b0c8980a4d9) pour *La Voie Turing* pour plus sur les droits de l'homme).
+
+Therefore, it is critical that projects be conducted in a way that respects privacy.
 
 **Répondre à cette question** peut nécessiter une révision des politiques internes de votre institution. Lors du traitement des données personnelles en particulier, votre institution pourrait avoir déjà une politique de données en place, ainsi qu'un processus d'évaluation de l'impact de la protection des données (voir [l'ICO](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/accountability-and-governance/data-protection-impact-assessments/) pour plus de détails). Certains bailleurs de fonds ont également des politiques pour le traitement des données collectées ou utilisées dans le cadre de la recherche qu'ils financent. Votre institution peut également disposer d'une infrastructure informatique sécurisée pour le stockage des données, ainsi que pour assurer des niveaux d'accès corrects. Il vaut la peine de demander s'il existe de telles politiques et processus dans votre institution.
 

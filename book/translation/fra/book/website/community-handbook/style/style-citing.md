@@ -68,7 +68,7 @@ Ici `CITEKEY` est la clé de citation correspondante dans [`references.bib`][tur
 Nous citerons l'article que nous éditons plus tôt dans le fichier [`reference.bib`][turingbib] en utilisant :
 
 ```
-{cite:ps}`Kuula2010archiving`
+{cite:ps}`baker2016reproducibility`
 ```
 
 Cela apparaîtra dans votre chapitre en tant que {cite:ps}`baker2016reproduccibility`.

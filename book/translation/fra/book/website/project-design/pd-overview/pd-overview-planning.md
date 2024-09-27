@@ -1,7 +1,7 @@
 (pd-overview-planning)=
 # Planification pour la conception du projet
 
-Penser à la reproductibilité dès le début de votre projet est la meilleure façon de gagner du temps et de tirer le meilleur parti des outils disponibles. Créer des connexions entre les données, le code, la méthodologie et divers collaborateurs, peut sembler être une tâche intimidante si elle n'a pas été planifiée depuis le début (voir cette illustration de {ref}`Cycle de recherche<research-cycle>`). En documentant et en partageant les processus et les flux de travail des projets pour la recherche et les chercheurs, nous pouvons assurer la durabilité et la réutilisabilité de la recherche tant pour les développeurs que pour les futurs utilisateurs.
+Penser à la reproductibilité dès le début de votre projet est la meilleure façon de gagner du temps et de tirer le meilleur parti des outils disponibles. Créer des connexions entre les données, le code, la méthodologie et divers collaborateurs, peut sembler être une tâche intimidante si elle n'a pas été planifiée depuis le début (voir cette illustration de {ref}`Cycle de recherche<research-cycle>`).<research-cycle>). En documentant et en partageant les processus et les flux de travail des projets pour la recherche et les chercheurs, nous pouvons assurer la durabilité et la réutilisabilité de la recherche tant pour les développeurs que pour les futurs utilisateurs. In addition, planning your project at the start can help you make sure that you are meeting any funder requirements.
 
 Une approche centrée sur l'homme dans le contexte du projet de recherche peut conduire à un meilleur processus de développement, de maintenance et d'extension future de nos travaux. De plus, il contribuera à améliorer la qualité de la conception de projets futurs, car nous pouvons tirer des leçons de ce qui a fonctionné et de ce qui peut être amélioré.
 
@@ -13,9 +13,56 @@ Les pratiques de conception de projet aident à guider et à définir des attent
 Les pratiques de conception de projets aident tous les intervenants à être certains de leurs rôles et responsabilités, de leurs compétences et de leurs exigences. et la mise en place de la recherche qu'ils veulent créer pour leurs collaborateurs, des valeurs qu'ils veulent promouvoir et comment ils peuvent atteindre leurs objectifs en collaboration.
 
 (pd-overview-planning-started)=
-## Commencer
+## Getting Started Checklist
 
-Nous pouvons commencer par le processus de conception du projet en identifiant différentes parties de notre recherche telles que les questions de recherche principales, méthodes et matériaux, exigence de code et de données, flux de travail, canaux de communication, méthodes de travail, pratiques collaboratives, etc. Ce processus nous permet d'être intentionnels dès le départ pour nous assurer que nos recherches sont reproductibles, bien communiqué et inclusif de toutes les parties prenantes où les décisions sont prises en collaboration. Nous pouvons explorer et sélectionner les bons outils et méthodes de reproductibilité dans notre recherche et promouvoir les bonnes pratiques telles que la documentation, le contrôle de version, les processus d'évaluation par les pairs, les tests, le flux de travail, l'archivage et le plan de gestion des données peuvent être promus dès le début. Enfin, nous pouvons planifier la publication et le partage des éléments de recherche avant, pendant et après le projet.
+Nous pouvons commencer par le processus de conception du projet en identifiant différentes parties de notre recherche telles que les questions de recherche principales, méthodes et matériaux, exigence de code et de données, flux de travail, canaux de communication, méthodes de travail, pratiques collaboratives, etc. Ce processus nous permet d'être intentionnels dès le départ pour nous assurer que nos recherches sont reproductibles, bien communiqué et inclusif de toutes les parties prenantes où les décisions sont prises en collaboration. Nous pouvons explorer et sélectionner les bons outils et méthodes de reproductibilité dans notre recherche et promouvoir les bonnes pratiques telles que la documentation, le contrôle de version, les processus d'évaluation par les pairs, les tests, le flux de travail, l'archivage et le plan de gestion des données peuvent être promus dès le début. Enfin, nous pouvons planifier la publication et le partage des éléments de recherche avant, pendant et après le projet. **Below is a checklist you can use to help identify areas of project planning you might want to look at.**
+
+### Aims & Values
+* Define the main research questions and objectives.
+* Identify the core values and principles that guide your project.
+* Useful documentation: [project canvas](https://canvanizer.com/new/project-canvas), values document, [project 1-pagers](https://www.smartsheet.com/content/project-report-templates).
+
+### Timeline & Milestones
+* Establish a project timeline with key milestones and deadlines.
+* Break down the project into manageable phases or tasks.
+* Useful documentation: [Gantt charts](https://clickup.com/blog/gantt-chart-project-templates/), [roadmaps](https://www.smartsheet.com/free-product-roadmap-templates-smartsheet), or [project boards](https://teamhood.com/project-management/project-board/).
+
+### Methodology
+* Determine the appropriate research methods and materials.
+* Consider the necessary code and data requirements for your project.
+* Document the workflow for data collection, analysis, and interpretation.
+* Useful documentation: [data management plan](rr-rdm-dmp), [code repository](pd-project-repo), [electronic lab notebooks](rr-open-notebooks).
+
+### Operations
+* Confirm the budget and any funding policies you need to follow.
+* Establish ways of working and collaborative practices for the project team.
+* Identify roles and responsibilities within the project team, using the RACI matrix.
+* Complete any institutional processes for project setup, such as ethics approval or contract signing.
+* Useful documentation: [RACI matrix](https://project-management.com/understanding-responsibility-assignment-matrix-raci-matrix/), [risk register](https://asana.com/resources/risk-register), [project charter](https://www.projectmanager.com/blog/project-charter).
+
+### Stakeholders
+* Identify all individuals, groups, or organizations that have an interest or influence in the project. This includes both internal and external stakeholders
+* Create a visual representation or matrix to understand the relationships between stakeholders and the project. Map their level of engagement, influence, and interest at each stage of the project. This helps prioritise engagement efforts and tailor communication strategies accordingly.
+* Utilise the "Facilitating Stakeholder Engagement" chapter for guidance and template resources.
+* Useful documentation: stakeholder register, stakeholder mapping, stakeholder analysis matrix, [personas](pd-persona).
+
+### Outputs
+* Plan for the different outputs of your research, such as publications, software, or datasets.
+* Consider licensing and copyright issues for sharing your outputs.
+* Determine how you will manage intellectual property and ownership rights using an IP register.
+* Remember to include any required reporting to funders.
+* Useful documentation: [The Turing Way Guide to Communication](cm-comms-overview) IP register, [licensing](rr-licensing) and copyright statement, [data management plan](rr-rdm-dmp).
+
+### Community & Communications
+* Identify the target audience for your research.
+* Plan for effective communication and engagement with the community.
+* Consider open and inclusive practices to involve stakeholders in decision-making.
+* Useful documentation: [Code of Conduct](ch-coc), [Contributing Guidelines](cl), [READMEs](https://the-turing-way.netlify.app/collaboration/github-novice/github-novice-firststeps.html?highlight=readmes), communication plan, stakeholder mapping, [governance documentation](er-ethics-open-source-governance).
+
+### Maintenance & Archiving
+* Develop a plan for the long-term maintenance and sustainability of your project.
+* Establish procedures for data management, including storage, backup, and access.
+* Consider archiving your project's artifacts and documentation for future reference.
 
 (pd-overview-planning-ethics)=
 ## Obtenir une approbation éthique et juridique
@@ -33,6 +80,11 @@ Obtenir une approbation éthique et légale est une étape cruciale du projet, d
 5. Conséquences sociétales supplémentaires
 
 Le chapitre {ref}`Processus d'éthique de la recherche<er-committees>` contient plus d'informations sur chaque élément. Lisez d'autres chapitres dans le Guide {ref}`pour la recherche éthique<er>`.
+
+```{warning}
+Even if you do not need institutional ethical approval, your project will still benefit from planning using self-relfection techniques and including ethical considerations in the project design. 
+Ethics should not be tied to institutions, it is everyone's responsibility. 
+```
 
 ## Organiser des fichiers et des documents
 

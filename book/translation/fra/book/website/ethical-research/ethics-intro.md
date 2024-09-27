@@ -11,7 +11,7 @@ Cette section introduit brièvement les concepts clés de *Recherche Responsable
 | **Avec qui les chercheurs interagissent** | Avec des sujets de recherche (par exemple: les traitons-nous avec respect?)       | Avec d'autres chercheurs (par exemple: adhérons-nous à un code de conduite?)                               |
 | **Quelles sont les formes de recherche**  | Formé par la société (par exemple: comment l'IA est-elle généralement comprise ?) | Formé par des normes institutionnelles (par exemple : quelles sont les questions de recherche financées ?) |
 
-```{figure} ../figures/ethical-research.jpg
+```{figure} ../figures/ethical-research.*
 ---
 nom: éthical-research
 alt : Une personne recherche l'intégrité de la recherche et une autre personne tient une carte et cherche les conséquences de la recherche.

@@ -8,7 +8,7 @@ D'autres ressources pour en savoir plus sur les systèmes de contrôle de versio
 Examinez les meilleures pratiques pour écrire du code de bonne qualité (par exemple, de bonnes conventions de nommage, des commentaires informatifs, une structure de code modulaire). Beaucoup de ces compétences sont également applicables pour bien utiliser le contrôle de version (par exemple, pour écrire de bons messages de livraison). Ils facilitent également l'utilisation du contrôle des versions en gardant les changements bien soignés et localisés.
 
 (lecture des ressources rr-vcs-)=
-## Lecture ultérieure
+## Further Reading
 
 - Un livre gratuit et très approfondi sur la myriade de fonctionnalités de Git peut être trouvé [ici](https://Git-scm.com/book/en/v2).
 - Une feuille de triche Git utile peut être trouvée [ici](https://education.github.com/git-cheat-sheet-education.pdf).

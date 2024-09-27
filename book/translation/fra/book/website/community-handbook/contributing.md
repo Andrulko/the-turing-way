@@ -5,7 +5,7 @@
 
 Depuis _The Turing Way_ est écrit de manière asynchrone par plusieurs auteurs dans le monde, nous avons créé une série de modèles pour guider différents types de développement de contenu tout en maintenant un format cohérent du livre.
 
-```{figure} ../figures/that-could-be-a-chapter.jpg
+```{figure} ../figures/that-could-be-a-chapter.*
 ---
 hauteur : 400px
 nom : ce-pourrait-be-a-chapter

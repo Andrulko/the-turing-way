@@ -17,8 +17,7 @@ Voir [le guide des styles de référence Scribbr](https://www.scribbr.com/citing
 
 (cm-citable-données)=
 ## Données de citation
-
-Lors du partage d'un jeu de données, utilisez des DOI dédiés et ajoutez un **énoncé de disponibilité de données** à la fin du document ou dans les détails du dépôt en ligne (similaire à la section de reconnaissance).
+When sharing a dataset, use the assigned DOI (from the data repository) and add this to your data availability statement at the end of the paper (similar to the acknowledgement section). It is important to also cite your dataset in the references themselves, as only the citations in the reference section will contribute to citation counts.
 
 Vous pouvez trouver des exemples de ces déclarations dans les politiques d'auteur des éditeurs (données de recherche).
 
@@ -52,4 +51,32 @@ Pour rendre votre code citable, vous pouvez utiliser l'intégration entre [Zenod
 - Vous pouvez dire à Zenodo quelles informations ou métadonnées vous voulez inclure dans votre logiciel en ajoutant un zenodo `. son` fichier, décrit [ici](https://guide.esciencecenter.nl/citable_software/making_software_citable.html).
 - Sur Zenodo, retournez le commutateur à la position 'on' pour le dépôt GitHub que vous voulez libérer.
 - Sur GitHub, cliquez sur le bouton *Créer une nouvelle version*. Zenodo devrait être automatiquement notifié et devrait faire une copie instantanée de l'état actuel de votre dépôt (une seule branche, sans aucun historique), et devrait également assigner un identifiant persistant (DOI) à cette capture instantanée.
+- Use the DOI in any citations of your software and tell any collaborators and users to do the same!
+:::  
+  :::{tab-item} GitLab
+  :sync: gitlab_tab
+
+To make your code citable, through an automated publication of your Gitlab repository to [Zenodo](https://zenodo.org/):
+
+- Create a file to tell people how to cite your software. Use this [handy guide](https://citation-file-format.github.io/cff-initializer-javascript/) to format the file.
+- Convert your `citation.cff` file to `.zenodo.json`. This file tells Zenodo what information or metadata you want to include with your software.
+
+    ```bash
+    pip install cffconvert
+    cffconvert --validate
+    cffconvert --format zenodo --outfile .zenodo.json 
+    ```
+
+- Add `.zenodo.json` to your repository.
+- Use the [gitlab2zenodo](https://gitlab.com/sbeniamine/gitlab2zenodo) package to publish a snapshot of your repository to your Zenodo instance. By following the installation and setup instructions of this package, you will get a workflow on your {ref}`CI <rr-ci-options>` that will take care of the publication to Zenodo.
 - Utilisez le DOI dans n'importe quelle citation de votre logiciel et dites à tous les collaborateurs et utilisateurs de faire de même !
+
+```{note}
+If you don't have a Zenodo record for your software yet when you attempt to publish it for the first time, you may encounter an error due to the undefined `ID`. 
+To address this issue, we recommend manually creating a record on Zenodo and updating the value of the {ref}`CI <rr-ci-options>` variable `zenodo_record`. 
+Detailed instructions for this process can be found in the [gitlab2zenodo](https://gitlab.com/sbeniamine/gitlab2zenodo) installation and setup instruction.
+```
+
+:::  
+:
+:::

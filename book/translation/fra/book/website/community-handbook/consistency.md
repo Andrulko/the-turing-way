@@ -19,7 +19,7 @@ Si vous identifiez des problèmes de plus grande cohérence qui doivent être r�
 
 ```
 
-```{figure} ../figures/theturingway-consistency.jpg
+```{figure} ../figures/theturingway-consistency.*
 ---
 hauteur : 400px
 : theturingway-consistance
@@ -33,19 +33,20 @@ Pathway pour maintenir la cohérence. Illustration du projet _Turing Way_ par Sc
 
 #### Formatage en cours
 
-| Requis    | VÉRIFICATION                                                                                                                                                                                                       |
-| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Difficile | Utilisez Markdown pour créer votre contenu (voir cette [feuille de triche WordPress](https://wordpress.com/support/markdown-quick-reference/)).                                                                    |
-| Difficile | Utiliser les en-têtes dans l'ordre séquentiel. Par exemple, démarrer le niveau supérieur avec la balise h1 `#`, en-tête de second niveau avec la balise h2 `##` et ainsi de suite.                                 |
-| Difficile | Ajouter des étiquettes aux chapitres, sous-chapitres et images pour activer le renvoi croisé comme décrit dans le guide de style de {ref}`<ch-style-crossref>`                                               |
-| Difficile | Utilisez `MyST` pour le formatage d'image tel que décrit dans le guide de style {ref}`<ch-style-figures>` | Utilisez des images de domaine public de moins de 1 Mo en taille et citez de manière appropriée. |
-| Douce     | Assurez-vous que les noms des chapitres/sous-chapitres sont courts et correspondent exactement à la façon dont ils sont intitulés dans le `_toc.yml`                                                               |
-| Douce     | Veillez à ce que la casse de titre soit appropriée pour les en-têtes | Capitalisez les premiers mots, derniers et "importants" de chaque titre; par exemple, "Blanche de neige et les Sept nains".                 |
+| Requis    | CHECK                                                                                                                                                                                                                                | EXAMPLE                                                                                                                                                                                            |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Difficile | Utilisez Markdown pour créer votre contenu (voir cette [feuille de triche WordPress](https://wordpress.com/support/markdown-quick-reference/)).                                                                                      |                                                                                                                                                                                                    |
+| Difficile | Utiliser les en-têtes dans l'ordre séquentiel. Par exemple, démarrer le niveau supérieur avec la balise h1 `#`, en-tête de second niveau avec la balise h2 `##` et ainsi de suite.                                                   |                                                                                                                                                                                                    |
+| Difficile | Ajouter des étiquettes aux chapitres, sous-chapitres et images pour activer le renvoi croisé comme décrit dans le guide de style de {ref}`<ch-style-crossref>`                                                                 |                                                                                                                                                                                                    |
+| Difficile | Utilisez `MyST` pour le formatage d'image tel que décrit dans le guide de style {ref}`<ch-style-figures>` | Utilisez des images de domaine public de moins de 1 Mo en taille et citez de manière appropriée.                   | Use public domain images that are less than 1MB in size and cite appropriately.                                                                                                                    |
+| Hard      | If you are using a colon (`:`) in the title of your chapter/subchapter, ensure that the whole title is escaped with quotation marks (`"`) in the `_toc.yml` file. Not doing so will cause the book build to fail due to YAML errors. | `- title: "Case Studies: Choosing an ML License"`                                                                                                                                                  |
+| Douce     | Assurez-vous que les noms des chapitres/sous-chapitres sont courts et correspondent exactement à la façon dont ils sont intitulés dans le `_toc.yml`                                                                                 |                                                                                                                                                                                                    |
+| Douce     | Ensure proper title-casing for headers                                                                                                                                                                                               | Veillez à ce que la casse de titre soit appropriée pour les en-têtes | Capitalisez les premiers mots, derniers et "importants" de chaque titre; par exemple, "Blanche de neige et les Sept nains". |
 
 
 #### Structure
 
-| Requis    | VÉRIFICATION                                                                                                                                                                                  |
+| Requis    | CHECK                                                                                                                                                                                         |
 | --------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Difficile | Assurez-vous que les chapitres suivent une structure telle que décrite dans le nouveau modèle de chapitre                                                                                     |
 | Difficile | Ne pas ajouter une 'table des matières' dans les chapitres ou sous-chapitres car elle est générée automatiquement par le livre Jupyter                                                        |
@@ -57,7 +58,7 @@ Pathway pour maintenir la cohérence. Illustration du projet _Turing Way_ par Sc
 
 #### Langue
 
-| Requis    | VÉRIFICATION                                                                                                                                                   |
+| Requis    | CHECK                                                                                                                                                          |
 | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Difficile | Assurez-vous que les chapitres n'utilisent aucune abréviation latine telle que décrite dans le guide de style de {ref}`<ch-style>`                       |
 | Difficile | Assurer une grammaire correcte et un ton cohérent dans le livre avec l'aide de 1-2 réviseurs                                                                   |

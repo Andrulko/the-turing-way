@@ -35,7 +35,7 @@ Le tableau ci-dessous compare les fonctionnalités des listes de diffusion, des 
 - **Recherche par sujet :** Les conversations peuvent-elles être catégorisées et recherchées par catégorie ?
 - **Facilement exportable :** Les conversations sont-elles stockées dans un format cohérent ? Les outils sont-ils disponibles pour exporter les conversations (par exemple dans une archive) ?
 
-| Fonctionnalités                       | Listes de diffusion | Forums |   Discuter   |
+| Fonctionnalités                       | Listes de diffusion | Forums |     Chat     |
 |:------------------------------------- |:-------------------:|:------:|:------------:|
 | Partage de médias                     |          ✅          |   ✅    | ✅ (encombre) |
 | Archivable                            |          ✅          |   ✅    |              |

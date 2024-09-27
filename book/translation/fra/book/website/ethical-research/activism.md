@@ -27,6 +27,7 @@ L'activisme sur votre lieu de travail peut inclure :
 * *{ref}`-syndicalisation-activisme`* organisation collective des travailleurs pour améliorer les conditions de travail
 * *{ref}`er-politique interne`* faisant campagne pour changer la façon dont votre institution prend des décisions ou gère certaines situations : cela peut inclure, par exemple, prôner des pratiques de données ouvertes!
 * *{ref}`-activismesifflement`* l'acte d'alerte des autorités ou de la presse aux problèmes de votre institution
+* *{ref}`er-activism-cultural-change`*: taking steps to change research/organisational culture
 
 À l'avenir, nous aimerions étendre ce chapitre pour inclure des guides sur l'activisme dans la société au sens large pour les scientifiques, par exemple, comment s’engager dans des processus d’élaboration de politiques gouvernementales.
 

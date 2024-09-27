@@ -15,7 +15,7 @@
 - **Heure:** 16:00 - 17:00 heure de Londres ([dans votre fuseau horaire](https://arewemeetingyet. om/London/YYYY-MM-DD/16:00)) <--- Mettre à jour cette
 - **Hôtes:** (Ajouter nom) <--- Mettre à jour cette
 - Rejoindre la réunion Zoom : (Ajouter un lien) <--- Mettre à jour cette
-:::
+:::  
 
 **Avant cette réunion :**
 

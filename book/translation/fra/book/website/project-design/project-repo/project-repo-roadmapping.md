@@ -3,7 +3,7 @@
 
 Si vous planifiez un gros travail dans votre projet, c'est une bonne idée de produire un aperçu du travail à partager avec vos contributeurs potentiels. Votre feuille de route devrait couvrir votre objectif et votre vision et inclure un calendrier pour les tâches qui doivent être terminées, aider ainsi les nouveaux contributeurs à votre projet à comprendre ce qui se passe actuellement sur le projet et ce qui va suivre.
 
-```{figure} ../../figures/project-roadmap.jpg
+```{figure} ../../figures/project-roadmap.*
 ---
 nom: project-roadmap
 alt: image montre une main tenant un smartphone avec une carte qui est marquée avec des jalons 1, 2 et 3. Cette application de téléphone pour la carte ou la navigation analogique est utile pour comprendre les jalons et les roadmaps de projet dans les projets de recherche.

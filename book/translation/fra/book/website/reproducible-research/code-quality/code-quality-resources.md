@@ -14,7 +14,7 @@
 - [ ] Effectuez des changements pertinents et répétez l'étape ci-dessus.
 - [ ] {ref}`Valider et pousser<rr-vcs-git-commit>` les changements dans le dépôt distant **Github/GitLab/BitBucket** pour exécuter les tests de pré-déploiement.
 
-## Lecture ultérieure
+## Further reading
 
 - [Article de l'université de Freiburg](https://swt.informatik.uni-freiburg.de/service/coding-conventions)
 - [Conventions de codage - Wikipédia](https://en.wikipedia.org/wiki/Coding_conventions)

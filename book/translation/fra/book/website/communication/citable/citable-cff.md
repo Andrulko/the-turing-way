@@ -3,7 +3,7 @@
 
 Le [Format de fichier de référence](https://citation-file-format.github.io) vous permet de fournir des métadonnées de citation, pour les logiciels ou les jeux de données, dans des fichiers en texte brut faciles à lire par les humains et les machines.
 
-```{figure} ../../figures/recognition.jpg
+```{figure} ../../figures/recognition.*
 ---
 nom: reconnaissance
 largeur: 500px
@@ -21,7 +21,7 @@ Il y a de grands avantages lorsque vous utilisez un fichier `CITATION.cff` pour 
 
 C'est plus facile pour vous : Lorsque vous hébergez le code source de votre logiciel sur GitHub et que vous avez une CITATION `. ff` dans votre dépôt, vous pouvez utiliser l'intégration Zenodo-GitHub pour publier automatiquement les nouvelles versions du logiciel. Zenodo utilisera les informations de `CITATION.cff` et les affichera avec la publication. Vous n'avez plus à modifier ces informations manuellement sur Zenodo.
 
-```{figure} ../../figures/software-credit.jpg
+```{figure} ../../figures/software-credit.*
 ---
 nom: software-credit
 largeur: 500px
@@ -46,21 +46,17 @@ Un exemple minimal d'un fichier `CITATION.cff` valide, qui ne contient que les c
 auteurs:
   - noms familiaux : Doe
     prénoms: Jean
-cff-version: 1.2.
-message: "Si vous utilisez ce logiciel, veuillez le citer en utilisant les métadonnées de ce fichier."
-titre: "Mon logiciel de recherche"
+cff-version: 1.2. message: "Si vous utilisez ce logiciel, veuillez le citer en utilisant les métadonnées de ce fichier." titre: "Mon logiciel de recherche"
 ```
 
 Cependant, ajouter plus de champs peut vous aider à créer plus de métadonnées descriptives de votre logiciel. L'exemple ci-dessous fournit également des informations importantes sur les logiciels tels que la version, la date de publication, le DOI, la licence, les mots-clés.
 
 ```yaml
-abstrait : "C'est mon logiciel de recherche génial. Il fait beaucoup de choses.
-auteurs :
+abstrait : "C'est mon logiciel de recherche génial. auteurs :
   - noms de famille : Doe
     noms donnés: Jean
     orcid: "https://orcid. rg/0000-0001-8888-9999"
-cff-version: 1.2.
-date de sortie : "2021-10-13"
+cff-version: 1.2. date de sortie : "2021-10-13"
 identifiants :
   - description : "C'est la collection de snapshots archivés de toutes les versions de mon logiciel de recherche"
     type : doi
@@ -71,9 +67,7 @@ identifiants :
 mots clés :
   - "logiciel incroyable"
   - recherche
-licence: Apache-2.
-message: "Si vous utilisez ce logiciel, veuillez le citer en utilisant les métadonnées de ce fichier."
-repository-code: "https://github. om/citation-file-format/my-research-software"
+licence: Apache-2. message: "Si vous utilisez ce logiciel, veuillez le citer en utilisant les métadonnées de ce fichier." repository-code: "https://github. om/citation-file-format/my-research-software"
 title: "My Research Software"
 version: 0.11.2
 ```
@@ -135,7 +129,7 @@ Si vous avez trouvé un logiciel ou des jeux de données qui contiennent une CIT
 
 - Sinon, si le logiciel ou les jeux de données que vous voulez citer sont disponibles sur GitHub, vous pouvez utiliser l'interface de GitHub pour copier la référence dans les formats APA ou BibTeX en cliquant sur le bouton "Citer ce dépôt" (voir la zone verte dans l'image ci-dessous). Pour plus de détails sur la citation du logiciel sur GitHub, veuillez consulter le guide [GitHub sur la citation du logiciel](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files).
 
-  ```{figure} ../../figures/github-cff-integration.jpg
+  ```{figure} ../../figures/github-cff-integration.*
   ---
   name : github-cff-integration
   alt: Bouton sur GitHub qui fournit la conversion automatique du fichier `CITATION.cff` au format APA et BibTex.

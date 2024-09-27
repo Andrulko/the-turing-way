@@ -5,7 +5,7 @@
 
 Les informaticiens prennent des décisions axées sur les données qui nécessitent la collecte de données et des approches de construction de modèles qui peuvent avoir de sérieuses conséquences sur la santé, la sécurité, la politique, la société et tout ce qui y est associé. Les chercheurs ou tout type d'acteurs de la science des données ont l'obligation de tenir compte des normes éthiques et de leur impact sur la vie des personnes {cite:ps}`Loyola2020Ethics`.
 
-```{figure} ../figures/ethics.jpg
+```{figure} ../figures/ethics.*
 ---
 nom : éthique
 alt : Une illustration d'un marteau de juge en bois étiqueté par la loi frappe une planche étiquetée avec éthique avec une citation "considérer la restriction nécessaire autour du partage de différents types de données

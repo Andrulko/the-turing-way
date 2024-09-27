@@ -1,9 +1,9 @@
 (ch-templates)=
-# Collection de gabarits
+# Template Collection
 
 ***Cette page sert d'index pour toutes les ressources de modèle fournies dans le Manuel communautaire de Turing Way***
 
-```{figure} ../figures/templates.png
+```{figure} ../figures/templates.*
 ---
 hauteur : 200px
 nom : templates
@@ -24,7 +24,7 @@ Il y a quatre modèles MarkDown pour les notes partagées (HackMD), commentaires
 - {ref}`Modèle HackMD pour le retour d'expérience après événement<ch-template-bookdash-feedback>`
 
 (ch-template-coworking)=
-## Appels de coaching
+## Coworking calls
 
 Il y a deux modèles MarkDown pour les notes partagées (HackMD) pendant les appels de coworking hébergés pour la communauté _The Turing Way_:
 

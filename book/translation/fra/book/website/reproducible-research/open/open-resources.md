@@ -1,33 +1,6 @@
 (rr-open-resources)=
 # Ressource
 
-(rr-open-resources-checklist)=
-## Checklist
-
-## Logiciel open source
-
-- Mettez votre code dans un dépôt librement accessible.
-- Inclure une licence accordant aux autres le droit d'utiliser, de copier et de modifier votre travail. Vous pouvez utiliser la section {ref}`licences logicielles<rr-licensing-software>`pour vous aider à choisir la licence la plus appropriée pour votre projet.
-- Inclure un fichier readme contenant des informations utiles sur un projet comme ce qu'il est, comment l'utiliser/installer et comment exécuter des tests.
-- Si vous voulez que d'autres collaborent sur le projet incluent des lignes directrices de contribution.
-
-## Ouvrir le matériel
-
-- Utilisez du matériel ouvert lorsque cela est pratique.
-- Faites de la documentation et des conceptions détaillées pour tout matériel que vous développez ouvertement disponible.
-- Inclure une licence accordant aux autres le droit d'utiliser, de copier et de modifier votre travail. Vous pouvez utiliser [ce site Web](https://choosealicense.com/) pour vous aider à choisir la licence la plus appropriée pour votre projet.
-- Inclure un fichier readme contenant des informations utiles sur un projet (par exemple, ce qu'il est et les matériaux utilisés).
-
-## Ouvrir l'accès
-
-- Publiez vos recherches dans une revue en accès libre.
-- Stockez une copie et/ou une préimpression de votre travail dans un dépôt public librement accessible.
-
-## Ouvrir les bloc-notes
-
-- Conservez les notes dans un carnet électronique de laboratoire.
-- Rendre vos cahiers accessibles au public en ligne.
-
 (rr-open-resources-learn)=
 ## Ce qu'il faut apprendre suivant
 
@@ -71,6 +44,6 @@ Si vous voulez jeter un coup d'oeil à un projet open source actif, ce manuel *e
 - [29.](https://www.citizenscience.org/) **(CC BY 4.0)**
 
 (rr-open-resources-footnotes)=
-## Notes de bas de page
+## Footnotes
 
 1. Références par discipline: Études agricoles (Kousha et Abdoli, 2010); Physique/astronomie (Gentil-Beccot et al. 2010; Harnad et Brody, 2004; Metcalfe, 2006); Medicine (Sahu et al., 2005; Xu et al. 2011); Informatique (Lawrence, 2001); Sociologie et sciences sociales (Hajjem et al. 2006; Norris et al., 2008; Xu et al., 2011); Psychologie (Hajjem et al., 2006); Science politique (Hajjem et al. 2006; Antelman, 2004; Atchison and Bull, 2015); Management (Hajjem et al. 2006); Law (Donovan et al., 2015; Hajjem et al., 2006); Economics (Hajjem et al. 2006; McCabe et Snyder, 2015; Norris et al., 2008; Wohlrabe, 2014); Mathématiques (Antelman, 2004; Davis et Fromerth, 2007; Norris et al. 2008); Santé (Hajjem et al., 2006); Ingénierie (Antelman, 2004; Koler-Povh et al., 2014); Philosophie (Antelman, 2004); Education (Hajjem et al. 2006; Zawacki-Richter et al., 2010); Business (Hajjem et al. 2006; McCabe et Snyder, 2015); études de communication (Zhang, 2006); écologie (McCabe et Snyder, 2014; Norris et al. 2008); Biologie (Frandsen, 2009b; Hajjem et al., 2006; McCabe and Snyder, 2014).

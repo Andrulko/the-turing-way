@@ -26,7 +26,7 @@ Ce fichier apparaîtra dans le dossier que vous avez nommé. Vous serez en mesur
 * Sous le nom de votre référentiel, cliquez sur "Aperçus".
 * Dans la barre latérale de gauche, cliquez sur « Communauté ».
   * Vous trouverez ici les fichiers recommandés à inclure dans votre dépôt. Ces fichiers sont particulièrement utiles lorsque vous travaillez avec des collaborateurs ou des membres de votre communauté.
-  * Le dossier "Licence" est l'un des plus importants, car il indique aux autres comment ils peuvent (ou ne peuvent) utiliser le matériel dans votre dépôt.
+  * The "License" file is one of the most important, because it tells others how they can (or can't) use the materials in your repo.
   * Pour les collaborations, n’oubliez pas de regarder « Contribution » et « Description ».
   * Dans la mesure du possible, ajoutez un « Code de conduite » pour rendre votre projet accueillant et inclusif pour les autres.
 * D'autres choses intéressantes à regarder sont les « contributeurs » (ceux qui contribuent à votre projet), “Traffic” (qui visite la page de votre projet et quand le font) et “Commentaires” (une chronologie et le nombre de commits faits sur votre projet).
@@ -38,7 +38,7 @@ Les tableaux de projet sur GitHub vous aident à organiser et prioriser votre tr
 ## Utiliser les fonctionnalités GitHub pour favoriser la collaboration
 C'est à quoi ressemble un référentiel lorsqu'il est mis en place pour inclure bon nombre de ces fonctionnalités, ce qui en fait un espace de travail accueillant et collaboratif.
 
-```{figure} ../../figures/github-project.jpg
+```{figure} ../../figures/github-project.*
 ---
 nom: github-project
 alt: diagramme annoté d'un dépôt de projet collaboratif. Expliqué dans la légende.

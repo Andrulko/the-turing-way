@@ -28,7 +28,7 @@ git ajoutez votre_nom_de_fichier
 
 Cette commande place vos nouveaux fichiers ou tout autre changement dans ce que l'on appelle l'état de « staging ».
 
-```{figure} ../../figures/change-stage-repo.png
+```{figure} ../../figures/change-stage-repo.*
 ---
 name : change-stage-repo
 alt: Une illustration des commandes `git add` et git commit Commands.

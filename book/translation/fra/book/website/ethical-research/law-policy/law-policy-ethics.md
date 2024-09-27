@@ -47,7 +47,7 @@ Si vous possédez la propriété intellectuelle que vous créez, vous devriez r�
 
 Vous pouvez utiliser une licence ouverte pour partager du code, du contenu, ou les deux. Il y a beaucoup de licences conçues spécialement pour le partage large, et des organisations comme Creative Commons et la Free Software Foundation ont créé des outils et des ressources pour faciliter le partage de contenu, de données et de code. Il y a plus d'informations dans le chapitre [Licence](https://the-turing-way.netlify.app/reproducible-research/licensing.html).
 
-## Droit des torts
+## Tort law
 
 Le droit des torts est la branche de la loi qui permet aux personnes qui ont été lésées de poursuivre en justice pour obtenir une indemnisation ou une autre mesure corrective pour ce préjudice. Le droit des torts varie selon les juridictions. Elle peut inclure à la fois les dommages causés par la négligence et les dommages intentionnels. Si vous faites du tort à quelqu'un, intentionnellement ou par négligence, vous pourriez être juridiquement responsable du dommage causé.
 
@@ -63,7 +63,9 @@ Le travail éthique peut également inclure une réflexion critique sur les cont
 
 La loi n'est pas statique et inchangée. La loi est faite par les humains et peut être modifiée par les humains. Si vous estimez que la loi dans votre juridiction fonctionne d'une manière qui n'est pas utile ou dommageable, envisagez de joindre vos efforts pour la modifier! La modification des lois est un projet à long terme et peut prendre des décennies.
 
-Cette section n'a pas pour but d'expliquer comment faire ceci: un bon point de départ est de trouver une organisation de campagne qui travaille sur la question, et demandez-leur comment s'impliquer.<!--- modifier ceci pour faire référence au chapitre de l'activisme, quand nous l'avons écrit -->Voir les détails dans les chapitres sur {ref}`er-activisme` pour plus de détails.
+Cette section n'a pas pour but d'expliquer comment faire ceci: un bon point de départ est de trouver une organisation de campagne qui travaille sur la question, et demandez-leur comment s'impliquer.
+<!--- edit this to refer to the activism chapter, when we have written it -->
+Voir les détails dans les chapitres sur {ref}`er-activisme` pour plus de détails.
 
 ## Politique de confidentialité
 

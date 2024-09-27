@@ -5,7 +5,7 @@ Jusqu'à présent, nous avons expliqué {ref}`ce que nous entendons par recherch
 
 Dans cette section, nous couvrons certaines des barrières (réelles et perçues) que vous pourriez rencontrer pour rendre votre travail reproductible.
 
-```{figure} ../../figures/barriers-reproducibility.png
+```{figure} ../../figures/barriers-reproducibility.*
 ---
 largeur : 500px
 nom : barrières de reproductibilité
@@ -16,7 +16,7 @@ Utilisé sous une licence CC-BY 4.0.
 DOI : [10.5281/zenodo.2669547](https://doi.org/10.5281/zenodo.2669547).
 ```
 
-Ce chapitre décrit certaines de ces barrières et quelques suggestions pour les contourner. Les obstacles à la recherche reproductible peuvent être décrits dans trois groupes principaux. Le premier, et le plus difficile à surmonter sont ceux qui ont trait à la structure d'incitation actuelle dans la recherche académique : {ref}`Des incitations limitées à fournir des preuves contre vous<rr-overview-barriers-incentives>` (ou "Promener le cinquième"), le biais connu de la publication {ref}`vers les découvertes nouvelles<rr-overview-barriers-publication>`, le fait que la recherche reproductible ou ouverte peut être {ref}`tenue selon des normes plus élevées que les autres<rr-overview-barriers-standards>`, et que tout cet effort est de {ref}`non pris en compte pour la promotion<rr-overview-barriers-promotion>`. Ensuite, il y a les défis techniques et théoriques de travailler avec {ref}`grandes données et infrastructure informatique complexe<rr-overview-barriers-infrastructure>` et de se rappeler que {ref}`être reproductible ne signifie pas que la réponse est bonne<rr-overview-barriers-notright>`. Nous terminons par trois obstacles compte tenu des pressions exercées sur les scientifiques de données individuelles: que ce travail peut être perçu à {ref}`prendre du temps supplémentaire<rr-overview-barriers-time>`, que vous soyez requis pour {ref}`supporter des utilisateurs supplémentaires<rr-overview-barriers-support>` (spoiler: vous n'êtes pas ! , et que vous et les membres de votre équipe pourriez {ref}`exigent des compétences supplémentaires<rr-overview-barriers-skills>`. La bonne nouvelle est que vous aider à apprendre ces compétences est exactement ce à quoi _The Turing Way_ est ici !
+Ce chapitre décrit certaines de ces barrières et quelques suggestions pour les contourner. Les obstacles à la recherche reproductible peuvent être décrits dans trois groupes principaux. Le premier, et le plus difficile à surmonter sont ceux qui ont trait à la structure d'incitation actuelle dans la recherche académique : {ref}`Des incitations limitées à fournir des preuves contre vous<rr-overview-barriers-incentives>` (ou "Promener le cinquième"), le biais connu de la publication {ref}`vers les découvertes nouvelles<rr-overview-barriers-publication>`, le fait que la recherche reproductible ou ouverte peut être {ref}`tenue selon des normes plus élevées que les autres<rr-overview-barriers-standards>`, et que tout cet effort est de {ref}`non pris en compte pour la promotion<rr-overview-barriers-promotion>`. Ensuite, il y a les défis techniques et théoriques de travailler avec {ref}`grandes données et infrastructure informatique complexe<rr-overview-barriers-infrastructure>` et de se rappeler que {ref}`être reproductible ne signifie pas que la réponse est bonne<rr-overview-barriers-notright>`. Nous terminons par trois obstacles compte tenu des pressions exercées sur les scientifiques de données individuelles: que ce travail peut être perçu à {ref}`prendre du temps supplémentaire<rr-overview-barriers-time>`, que vous soyez requis pour {ref}`supporter des utilisateurs supplémentaires<rr-overview-barriers-support>` (spoiler: vous n'êtes pas ! La bonne nouvelle est que vous aider à apprendre ces compétences est exactement ce à quoi _The Turing Way_ est ici !
 
 (rr-overview-barriers-incentives)=
 ## Des incitations limitées à fournir des preuves contre vous
@@ -25,7 +25,7 @@ Le [cinquième amendement](https://en.wikipedia.org/wiki/Fifth_Amendment_to_the_
 
 Nous savons que personne ne veut s'incriminer et que personne n'est infaillible. Mettre en ligne votre code et vos données peut être très révélateur et intimidant, et il fait partie de la condition humaine d'être nerveux d'être jugé par les autres. Bien qu'il n'y ait pas de _loi_ régissant la communication de la recherche reproductible - à moins que vous ne commettiez une fraude explicite dans votre travail - le partage d'erreurs que vous trouvez dans votre travail est fortement découragé.
 
-```{figure} ../../figures/make-ok-to-be-human.jpg
+```{figure} ../../figures/make-ok-to-be-human.*
 ---
 hauteur : 500px
 nom : make-ok-to-be-human
@@ -89,7 +89,7 @@ Faire une analyse reproductible prend du temps et des efforts, en particulier au
 
 On peut aussi passer du temps à communiquer avec des collaborateurs pour s'entendre sur les parties du projet pouvant être open source et sur la manière dont ces sorties sont partagées. Les chercheurs peuvent constater qu'ils ont besoin de « perfectionner » leurs collègues pour permettre à l'équipe de bénéficier d'outils de reproductibilité tels que git et GitHub, conteneurs, bloc-notes Jupyter ou bases de données.
 
-```{figure} ../../figures/help-you-of-the-future.jpg
+```{figure} ../../figures/help-you-of-the-future.*
 ---
 largeur: 500px
 nom: aide-vous

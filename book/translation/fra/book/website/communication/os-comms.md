@@ -3,13 +3,11 @@
 
 ## Summary
 
-> Conversation en tant que collaboration
-
 Dans un projet Open Source, une grande partie de la collaboration entre l'équipe de base ou de direction et la communauté au sens large se fait sous la forme d'interactions en ligne (probablement beaucoup d'entre eux!). Il est donc vraiment important de planifier soigneusement _comment ces interactions ont lieu_ et _où_. Les interactions communautaires devraient maintenir la transparence et l'ouverture du projet pour faciliter la croissance de votre communauté, et le choix des plates-formes doivent s'assurer que votre projet est accueillant, accessible et sécurisé pour ses collaborateurs.
 
 Ce chapitre donne un aperçu des façons les plus courantes de suivre, de soutenir et de maintenir les interactions de la communauté, par exemple en soulevant des questions, signaler les bogues et attirer les contributions qui conduisent à des améliorations dans le projet.
 
-```{figure} ../figures/research-tools.jpg
+```{figure} ../figures/research-tools.*
 ---
 name: recherche-outils
 largeur : 500px

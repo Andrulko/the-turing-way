@@ -123,34 +123,34 @@ Sur ces lignes, le caractère `\` est utilisé pour poursuivre de longues lignes
 Le fichier Makefile complet devient alors :
 
 ```makefile
-# Makefile pour le rapport d'analyse
+# Makefile for analysis report
 #
 
 ALL_CSV = $(wildcard data/*.csv)
-DATA = $(filter-out $(wildcard data/input_file_*. sv),$(ALL_CSV))
+DATA = $(filter-out $(wildcard data/input_file_*.csv),$(ALL_CSV))
 HISTOGRAMS = $(patsubst %,output/histogram_%.png,$(GENRES))
-QQPLOTS = $(patsubst %,output/qqplot_%. ng,$(GENRES))
+QQPLOTS = $(patsubst %,output/qqplot_%.png,$(GENRES))
 
 GENRES = $(patsubst data/%.csv,%,$(DATA))
-SCRIPTS = histogramme qqplot
+SCRIPTS = histogram qqplot
 
 .PHONY: all clean
 
-all: output/report. df
+all: output/report.pdf
 
-définit run-script-on-data
-output/$(1)_$(2).png : data/$(2).csv scripts/generate_$(1). y
-    scripts/générer_$(1). y -i $$< -o $$$@
+define run-script-on-data
+output/$(1)_$(2).png: data/$(2).csv scripts/generate_$(1).py
+    python scripts/generate_$(1).py -i $$< -o $$@
 endef
 
-$(genre,$(GENRES),\
-    $(script foreach,$(SCRIPTS),
-        $(eval $(call run-script-on-data,$(script),$(genre))))\
+$(foreach genre,$(GENRES),\
+    $(foreach script,$(SCRIPTS),\
+        $(eval $(call run-script-on-data,$(script),$(genre)))\
     )\
 )
 
-rapport/sortie. df: rapport/report.tex $(HISTOGRAMS) $(QQPLOTS)
-    cd rapport/ && rapport pdflatex. rapport ex && mv. df ../$@
+output/report.pdf: report/report.tex $(HISTOGRAMS) $(QQPLOTS)
+    cd report/ && pdflatex report.tex && mv report.pdf ../$@
 
 clean:
     rm -f output/report.pdf

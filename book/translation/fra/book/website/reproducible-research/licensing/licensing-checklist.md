@@ -10,7 +10,7 @@ Ceci est une liste de contrôle pour ajouter une licence à votre dépôt de pro
 - Enregistrez votre fichier et ajoutez des détails dans votre fichier README.md
 
 (rr-licence-lecture)=
-## Lecture ultérieure
+## Further Reading
 
 Des ressources supplémentaires que vous pouvez lire pour en savoir plus sur les licences de logiciels.
 

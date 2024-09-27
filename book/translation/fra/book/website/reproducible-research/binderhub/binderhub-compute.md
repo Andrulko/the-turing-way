@@ -9,7 +9,7 @@ En fait, BinderHub ne dépend pas du tout de l'hébergement sur le cloud et peut
 
 [Kubernetes](https://kubernetes.io/) est un système pour automatiser le déploiement, la mise à l'échelle (faire plus ou moins de copies), et la gestion des conteneurs à travers un cluster de calcul (il n'a pas besoin d'être basé sur le cloud). BinderHub utilise Kubernetes pour gérer les ressources demandées par les utilisateurs du service Binder et pour supporter les outils qui construisent les environnements.
 
-## Heaume
+## Helm
 
 [Helm](https://helm.sh/) est un gestionnaire de paquets pour Kubernetes. Les paquets se présentent sous la forme de *Cartes* qui sont un ensemble d'instructions à déployer, mettre à jour et gérer les applications fonctionnant sur une grappe de serveurs Kubernetes. Ils peuvent rendre l'installation et la gestion d'applications Kubernetes beaucoup plus facile et des graphiques spécifiques pour des projets peuvent être publiés en ligne. Par exemple, le heaume pour BinderHub est disponible [ici](https://jupyterhub.github.io/helm-chart/#development-releases-binderhub).
 
@@ -28,7 +28,7 @@ BinderHub peut être considéré comme une couche mince qui se trouve au-dessus 
 1. Le lien vers le référentiel est résolu par BinderHub.
 2. BinderHub recherche une image Docker relative à la référence fournie (par exemple, git commit hash, branche ou tag).
 3. **Si une image Docker n'est pas trouvée**, BinderHub demande des ressources de la grappe Kubernetes pour exécuter repo2docker pour faire ce qui suit :
-   - Récupérer le référentiel,
+   - Fetch the repository,
    - Construire une image Docker contenant le logiciel demandé dans le fichier de configuration,
    - Poussez cette image dans le registre Docker.
 4. BinderHub envoie l'image Docker à JupyterHub.

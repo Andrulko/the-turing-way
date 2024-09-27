@@ -1,5 +1,5 @@
 (er-activismewhistleblowing)=
-# Siffler
+# Whistleblowing
 
 Un **lanceur d'alertes** est une personne qui signale des actes répréhensibles au sein d'une organisation à une autorité. Cela peut être interne : signaler des actes répréhensibles à une personne âgée au sein de l'organisation. Il peut aussi être externe : signaler les actes répréhensibles à une agence externe.
 

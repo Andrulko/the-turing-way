@@ -13,7 +13,7 @@ Les vérifications dures qui traitent de la structure de _La Voie de Turing_ inc
 
 Le fichier `_toc.yml` est l'endroit où vit _la table des matières_ de Turing Way (ToC). Certains fichiers référencés dans les CdV sont vides, et leur inclusion signifie que les lecteurs peuvent naviguer vers un (sous-)chapitre vide en lisant _The Turing Way_. Cela a un impact négatif sur l'expérience du lecteur au fur et à mesure qu'ils passent par le livre.
 
-```{figure} ../../figures/empty-toc-file.png
+```{figure} ../../figures/empty-toc-file.*
 ---
 nom: fichier vide-toc-
 alt: Un fichier vide qui a été inclus dans la table des matières de Turing Ways. Les lecteurs peuvent toujours naviguer vers des fichiers vides lorsqu'ils sont inclus dans la table des matières.
@@ -30,7 +30,7 @@ Par exemple, [ce problème](https://github.com/alan-turing-institute/the-turing-
 
 _La Voie Turing_ est composée de cinq guides qui contiennent plusieurs chapitres et sous-chapitres. Cependant, ces chapitres ne suivent pas une structure uniforme, en ôtant l'expérience du lecteur.
 
-```{figure} ../../figures/recommended-chapter-structure.png
+```{figure} ../../figures/recommended-chapter-structure.*
 ---
 nom : recommandéd-chapter-structure
 alt : La structure recommandée pour les chapitres de la Voie Turing. Les chapitres devraient avoir une page de destination avec une section pour les prérequis et les raisons pour lesquelles le chapitre est utile. Les chapitres devraient également avoir une liste de contrôle et un sous-chapitre de ressources en plus du reste du contenu du chapitre.
@@ -60,7 +60,7 @@ Reportez-vous au modèle de chapitre [](https://github.com/alan-turing-institute
 
 Certains chapitres dans _The Turing Way_ ont été écrits avec un tableau de matières fabriqué à la main. Cependant, Jupyter Book génère automatiquement une table des matières permanente qui peut être trouvée sur le côté gauche du livre _The Turing Way_ et une table de contenu dynamique et spécifique à la page située en haut à droite de chaque page. Cela rend inutile une table des matières écrite manuellement, et cela peut avoir un impact négatif sur l'expérience d'un lecteur avec _The Turing Way_.
 
-```{figure} ../../figures/many-table-of-contents.png
+```{figure} ../../figures/many-table-of-contents.*
 ---
 nom : plusieurs table-de-matières
 alt : Un sous-chapitre de la Voie Turing avec trois tables de matières. Deux qui sont générés par Jupyter Book et un fait par l'auteur du chapitre.
@@ -76,25 +76,40 @@ La table des matières écrite manuellement est inutile car Jupyter Book génèr
 (cohérence-structure-hr-citation)=
 ### S'assurer que les sources externes sont correctement citées et référencées
 
-Comme décrit dans le guide de style de {ref}`<ch-style-citing>`, _Les références de la Voie Turing_sont stockées dans un fichier BibTeX appelé `références. ib`. Lors de l'écriture d'un nouveau contenu, assurez-vous que les informations collectées à partir de sources externes sont citées en utilisant le format BibTeX et ajoutées aux références `.</p>
+As described in the {ref}`style guide<ch-style-citing>`, _The Turing Way_'s book-wide references are stored in a BibTeX file called `references.bib`. ib</code>. Lors de l'écriture d'un nouveau contenu, assurez-vous que les informations collectées à partir de sources externes sont citées en utilisant le format BibTeX et ajoutées aux références `.
 
-<p spaces-before="0">Le guide de style de {ref}<code><ch-style-citing>` montre comment ajouter une nouvelle référence au fichier BibTeX centralisé, et montre comment cette référence peut être incluse dans votre écriture.
+Comme décrit dans le guide de style de {ref}`<ch-style-citing>`, _Les références de la Voie Turing_sont stockées dans un fichier BibTeX appelé références.</p>
 
+<p spaces-before="0">(ch-consistency-structure-soft-req)=</p>
 
-(ch-consistcy-structure-soft-req)=
-## Exigences douces
+<h2 spaces-before="0">Soft Requirements</h2>
 
-Les Soft Requirements qui traitent de la structure _de la Voie de Turing_ comprennent :
+<p spaces-before="0">Soft requirements that deal with <em x-id="4">The Turing Way's</em> structure include:</p>
 
-(ch-consistcy-structure-sr-summary)=
-### Vérification 1 : Assurez-vous que chaque chapitre a un bon résumé dans sa page d'accueil
+<p spaces-before="0">(ch-consistency-structure-sr-summary)=</p>
 
-Un chapitre avec un bon résumé donne au lecteur un aperçu du contenu qui suit. Idéalement, les résumés devraient communiquer l'idée principale du chapitre et identifier tout détail d'appui, mais être brèves et précises. Les résumés devraient également faire des références croisées adéquates aux sous-chapitres du chapitre, pour le bénéfice des lecteurs qui pourraient vouloir explorer rapidement les sujets abordés dans les introductions de résumé. Les chapitres dans _The Turing Way_ qui contiennent des résumés qui ne correspondent pas à ces critères peuvent avoir besoin d'être reformulés ou réécrits.
+<h3 spaces-before="0">Check 1: Ensure each chapter has a good summary in their landing page</h3>
 
+<p spaces-before="0">A chapter with a good summary gives the reader an overview of the content that follows.
+Idéalement, les résumés devraient communiquer l'idée principale du chapitre et identifier tout détail d'appui, mais être brèves et précises.
+Les résumés devraient également faire des références croisées adéquates aux sous-chapitres du chapitre, pour le bénéfice des lecteurs qui pourraient vouloir explorer rapidement les sujets abordés dans les introductions de résumé.
+Les chapitres dans <em x-id="4">The Turing Way</em> qui contiennent des résumés qui ne correspondent pas à ces critères peuvent avoir besoin d'être reformulés ou réécrits.</p>
 
-(ch-consistcy-structure-sr-modulaire)=
-### Vérifier 2 : Diviser les chapitres longs en sous-chapitres plus petits afin qu'ils soient modulaires
+<p spaces-before="0">(ch-consistcy-structure-sr-modulaire)=</p>
 
-Les longs chapitres peuvent être difficiles à franchir pour certains lecteurs. En outre, le contenu très long peut être intimidant pour les autres lecteurs qui ne peuvent être intéressés que par les idées principales dont parle le chapitre. Par conséquent, pour faciliter la lecture de  _la voie Turing_ , les chapitres longs devraient être modulés de manière appropriée.
+<h3 spaces-before="0">Vérifier 2 : Diviser les chapitres longs en sous-chapitres plus petits afin qu'ils soient modulaires</h3>
 
-Lorsque vous gardez des chapitres modulaires, assurez-vous que ses sous-chapitres ne parlent que d'un aspect du sujet global. Par exemple, si un chapitre sur l'apprentissage automatique devait être écrit pour _The Turing Way_, un tel chapitre devrait contenir au moins trois sous-chapitres que chaque chapitre intitulé Apprentissage supervisé, Apprentissage non supervisé et Apprentissage du renforcement.
+<p spaces-before="0">Les longs chapitres peuvent être difficiles à franchir pour certains lecteurs.</p>
+
+<p spaces-before="0">(ch-consistency-structure-sr-modular)=</p>
+
+<h3 spaces-before="0">Check 2: Split long chapters into smaller subchapters so they are modular</h3>
+
+<p spaces-before="0">Long chapters may be difficult for some readers to go through.
+En outre, le contenu très long peut être intimidant pour les autres lecteurs qui ne peuvent être intéressés que par les idées principales dont parle le chapitre.
+Par conséquent, pour faciliter la lecture de  <em x-id="4">la voie Turing</em> , les chapitres longs devraient être modulés de manière appropriée.</p>
+
+<p spaces-before="0">Lorsque vous gardez des chapitres modulaires, assurez-vous que ses sous-chapitres ne parlent que d'un aspect du sujet global.</p>
+
+<p spaces-before="0">When keeping chapters modular, ensure that its subchapters only talk about one aspect of the overall topic.
+Par exemple, si un chapitre sur l'apprentissage automatique devait être écrit pour <em x-id="4">The Turing Way</em>, un tel chapitre devrait contenir au moins trois sous-chapitres que chaque chapitre intitulé Apprentissage supervisé, Apprentissage non supervisé et Apprentissage du renforcement.</p></p>

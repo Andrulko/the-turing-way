@@ -22,13 +22,14 @@ En s'assurant que votre code est construit et testé régulièrement, CI aide le
 
 ## Quelles sont les options pour les fournisseurs de services de CI ?
 
-Il existe de nombreux fournisseurs de services de CI tels que GitHub Actions et Travis CI. Chacun de ces services a ses propres avantages et inconvénients. Dans cette section, nous vous proposons un bref aperçu avec des liens vers des exemples pour vous aider à choisir le plus adapté à vos besoins.
+There are many CI service providers readily available, providing free access for open, public projects. Chacun de ces services a ses propres avantages et inconvénients.  Dans cette section, nous vous proposons un bref aperçu avec des liens vers des exemples pour vous aider à choisir le plus adapté à vos besoins.  Alternatively a few systems also provide the option of self-hosting.
 
  - [Actions GitHub](https://help.github.com/en/actions), pour quelques exemples, voir le [langage et les guides de framework](https://help.github.com/en/actions/language-and-framework-guides) et [ce tutoriel](https://github.com/NLESC-JCER/ci_for_science#-github-actions).
- - [Cercle CI](https://circleci.com/), pour quelques exemples voir [ici](https://circleci.com/docs/2.0/project-walkthrough/) et [ici](https://circleci.com/docs/2.0/hello-world/).
  - [GitLab CI](https://docs.gitlab.com/ee/ci/), pour quelques exemples les [exemples de CI GitLab](https://docs.gitlab.com/ee/ci/examples/README.html) et [ce tutoriel](https://github.com/NLESC-JCER/ci_for_science#-gitlab-ci).
  - [Pipelines Azure](https://azure.microsoft.com/en-us/services/devops/pipelines/), pour quelques exemples voir la page de support de [l'écosystème](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/?view=azure-devops) et [ce tutoriel](https://github.com/trallard/ci-research).
+ - [Cercle CI](https://circleci.com/), pour quelques exemples voir [ici](https://circleci.com/docs/2.0/project-walkthrough/) et [ici](https://circleci.com/docs/2.0/hello-world/).
  - [Jenkins](https://www.jenkins.io/), pour quelques exemples voir [ce tutoriel](https://www.jenkins.io/doc/tutorials/)
  - [Travis CI](https://travis-ci.com/), pour quelques exemples le [tutoriel Travis](https://docs.travis-ci.com/user/tutorial/).
+
 
 Une liste plus exhaustive des fournisseurs de services de CI peut être trouvée [ici](https://www.software.ac.uk/resources/guides/hosted-continuous-integration).
